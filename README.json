@@ -394,7 +394,7 @@
             "last_commit": "2024-06-25T03:06:44Z",
             "owner": "ingra14m",
             "repo": "Deformable-3D-Gaussians",
-            "stars": 1250
+            "stars": 1251
           }
         },
         {
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T17:59:52.821Z",
+    "last_updated": "2026-08-14T17:55:22.068Z",
     "original_repository": "pdaicode/awesome-dynamic-NeRF",
     "original_repository_sha": "a023ece9d6ca5391a4df8a450e845554e4a45db1",
     "enhanced_repository": "enhansome/enhansome-dynamic-NeRF",
