@@ -248,7 +248,7 @@
             "last_commit": "2023-12-22T06:49:05Z",
             "owner": "JonathonLuiten",
             "repo": "Dynamic3DGaussians",
-            "stars": 2292
+            "stars": 2291
           }
         },
         {
@@ -262,7 +262,7 @@
             "last_commit": "2025-08-02T02:59:14Z",
             "owner": "vye16",
             "repo": "shape-of-motion",
-            "stars": 1298
+            "stars": 1299
           }
         },
         {
@@ -624,7 +624,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:23:59.521Z",
+    "last_updated": "2026-08-16T17:23:02.409Z",
     "original_repository": "pdaicode/awesome-dynamic-NeRF",
     "original_repository_sha": "a023ece9d6ca5391a4df8a450e845554e4a45db1",
     "enhanced_repository": "enhansome/enhansome-dynamic-NeRF",
