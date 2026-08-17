@@ -33,7 +33,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ## 2026
 
-* 4C4D: 4 Camera 4D Gaussian Splatting, CVPR 2026. [Code](https://github.com/yangzf-1023/4C4D) ⭐ 141 | 🐛 4 | 🌐 Python | 📅 2026-04-07
+* 4C4D: 4 Camera 4D Gaussian Splatting, CVPR 2026. [Code](https://github.com/yangzf-1023/4C4D) ⭐ 142 | 🐛 4 | 🌐 Python | 📅 2026-04-07
 * Splannequin: Freezing monocular mannequin-challenge footage with dual-detection splatting, WACV 2026 [Page](https://chien90190.github.io/splannequin/), [Code](https://github.com/chien90190/splannequin-gs) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-01-02
 * ClipGStream: Clip-Stream Gaussian Splatting for Any Length and Any Motion Multi-View Dynamic Scene Reconstruction, CVPR 2026. [Project](https://liangjie1999.github.io/ClipGStreamWeb/)
 
@@ -41,15 +41,15 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 * FreeTimeGS: Free Gaussian Primitives at Anytime Anywhere for Dynamic Scene Reconstruction, CVPR 2025. [Code](https://github.com/OpsiClear/FreeTimeGsVanilla) ⭐ 176 | 🐛 2 | 🌐 Python | 📅 2026-01-23
 
-* Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation, 2025. [Code](https://github.com/ohsngjun/3D-4DGS) ⭐ 162 | 🐛 9 | 🌐 Python | 📅 2025-06-05
+* Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation, 2025. [Code](https://github.com/ohsngjun/3D-4DGS) ⭐ 163 | 🐛 9 | 🌐 Python | 📅 2025-06-05
 
 * 4dslomo: 4d reconstruction for high speed scene with asynchronous capture, Siggraph Asia 2025. [Code](https://github.com/OpenImagingLab/4DSloMo) ⭐ 140 | 🐛 6 | 🌐 Python | 📅 2025-10-27
 
 * Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction, WACV 2025. [Code](https://github.com/fraunhoferhhi/AT-GS) ⭐ 89 | 🐛 0 | 🌐 Python | 📅 2025-06-11
 
-* 4K4DGen: Panoramic 4D Generation at 4K Resolution, ICLR 2025. [Code](https://github.com/ShadowIterator/4K4DGen) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2025-11-19
+* DASH: 4D Hash Encoding with Self-Supervised Decomposition for Real-Time Dynamic Scene Rendering, ICCV 2025. [Code](https://github.com/chenj02/DASH) ⭐ 28 | 🐛 5 | 🌐 Python | 📅 2026-04-13
 
-* DASH: 4D Hash Encoding with Self-Supervised Decomposition for Real-Time Dynamic Scene Rendering, ICCV 2025. [Code](https://github.com/chenj02/DASH) ⭐ 27 | 🐛 5 | 🌐 Python | 📅 2026-04-13
+* 4K4DGen: Panoramic 4D Generation at 4K Resolution, ICLR 2025. [Code](https://github.com/ShadowIterator/4K4DGen) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2025-11-19
 
 * 1000+ FPS 4D Gaussian Splatting for Dynamic Scene Rendering, 2025
 
@@ -57,13 +57,13 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 * Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis, Luiten et. al., International Conference on 3D Vision (3DV), 2024. \[[Paper](https://dynamic3dgaussians.github.io/paper.pdf) | [Project Page](https://dynamic3dgaussians.github.io/) | [Code](https://github.com/JonathonLuiten/Dynamic3DGaussians) ⭐ 2,291 | 🐛 32 | 🌐 Python | 📅 2023-12-22 | [Explanation Video](https://www.youtube.com/live/hDuy1TgD8I4?si=6oGN0IYnPRxOibpg)]
 
-* Shape of Motion: 4D Reconstruction from a Single Video, 2024. \[[Project](https://shape-of-motion.github.io/) | [Code](https://github.com/vye16/shape-of-motion/) ⭐ 1,299 | 🐛 58 | 🌐 Python | 📅 2025-08-02]
+* Shape of Motion: 4D Reconstruction from a Single Video, 2024. \[[Project](https://shape-of-motion.github.io/) | [Code](https://github.com/vye16/shape-of-motion/) ⭐ 1,301 | 🐛 58 | 🌐 Python | 📅 2025-08-02]
 
-* \[+] Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis, CVPR 2024. [Code](https://github.com/oppo-us-research/SpacetimeGaussians) ⭐ 830 | 🐛 53 | 🌐 Python | 📅 2025-03-30
+* \[+] Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis, CVPR 2024. [Code](https://github.com/oppo-us-research/SpacetimeGaussians) ⭐ 830 | 🐛 54 | 🌐 Python | 📅 2025-03-30
 
 * SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes. \[[Code](https://github.com/yihua7/SC-GS) ⭐ 646 | 🐛 32 | 🌐 Python | 📅 2025-06-27]
 
-* Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting, \[[Paper](https://arxiv.org/abs/2401.16416) | [Code](https://github.com/lastbasket/Endo-4DGS) ⭐ 105 | 🐛 9 | 🌐 Python | 📅 2025-08-30]
+* Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting, \[[Paper](https://arxiv.org/abs/2401.16416) | [Code](https://github.com/lastbasket/Endo-4DGS) ⭐ 106 | 🐛 9 | 🌐 Python | 📅 2025-08-30]
 
 * Sync-NeRF : Generalizing Dynamic NeRFs to Unsynchronized Videos, AAAI 2024. \[[Paper](https://arxiv.org/abs/2310.13356), [Code](https://github.com/seoha-kim/Sync-NeRF) ⭐ 60 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-29]
 
@@ -135,4 +135,4 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
