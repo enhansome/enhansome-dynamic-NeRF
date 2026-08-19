@@ -59,7 +59,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 * Shape of Motion: 4D Reconstruction from a Single Video, 2024. \[[Project](https://shape-of-motion.github.io/) | [Code](https://github.com/vye16/shape-of-motion/) ⭐ 1,301 | 🐛 58 | 🌐 Python | 📅 2025-08-02]
 
-* \[+] Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis, CVPR 2024. [Code](https://github.com/oppo-us-research/SpacetimeGaussians) ⭐ 830 | 🐛 53 | 🌐 Python | 📅 2025-03-30
+* \[+] Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis, CVPR 2024. [Code](https://github.com/oppo-us-research/SpacetimeGaussians) ⭐ 829 | 🐛 53 | 🌐 Python | 📅 2025-03-30
 
 * SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes. \[[Code](https://github.com/yihua7/SC-GS) ⭐ 646 | 🐛 32 | 🌐 Python | 📅 2025-06-27]
 
@@ -131,8 +131,8 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ## 2020
 
-* D-NeRF: Neural Radiance Fields for Dynamic Scenes, Pumarola et. al, CVPR 2020. \[[Project Page](https://www.albertpumarola.com/research/D-NeRF/index.html) | [Code](https://github.com/albertpumarola/D-NeRF) ⭐ 592 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2024-01-26]
+* D-NeRF: Neural Radiance Fields for Dynamic Scenes, Pumarola et. al, CVPR 2020. \[[Project Page](https://www.albertpumarola.com/research/D-NeRF/index.html) | [Code](https://github.com/albertpumarola/D-NeRF) ⭐ 591 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2024-01-26]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._

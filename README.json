@@ -1,631 +1,693 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Neural Scene Flow Fields",
-          "description": "Instructions for custom data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-07-15T16:14:03Z",
-            "owner": "zhengqili",
-            "repo": "Neural-Scene-Flow-Fields",
-            "stars": 740
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Robust Dynamic Radiance Fields",
-          "description": "Estimate monocular depth, Predict optical flows, Obtain motion mask.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2023-11-19T03:42:08Z",
-            "owner": "facebookresearch",
-            "repo": "robust-dynrf",
-            "stars": 243
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Monocular Dynamic View Synthesis: A Reality Check",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Neural Scene Flow Fields",
+              "description": "Instructions for custom data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 330274429,
+                "language": "Python",
+                "last_commit": "2022-07-15T16:14:03Z",
+                "owner": "zhengqili",
+                "repo": "Neural-Scene-Flow-Fields",
+                "stars": 740
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Robust Dynamic Radiance Fields",
+              "description": "Estimate monocular depth, Predict optical flows, Obtain motion mask.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 656884918,
+                "language": "Python",
+                "last_commit": "2023-11-19T03:42:08Z",
+                "owner": "facebookresearch",
+                "repo": "robust-dynrf",
+                "stars": 243
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Monocular Dynamic View Synthesis: A Reality Check",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 556652955,
+                "language": "Python",
+                "last_commit": "2024-12-21T04:55:47Z",
+                "owner": "KAIR-BAIR",
+                "repo": "dycheck",
+                "stars": 218
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Nerfies Dataset",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 331759533,
+                    "language": "Python",
+                    "last_commit": "2024-04-22T20:43:02Z",
+                    "owner": "google",
+                    "repo": "nerfies",
+                    "stars": 1973
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Hypernerf Dataset",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 404599422,
+                    "language": "Python",
+                    "last_commit": "2024-05-03T20:24:40Z",
+                    "owner": "google",
+                    "repo": "hypernerf",
+                    "stars": 962
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Plenoptic Dataset",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 471068418,
+                    "language": null,
+                    "last_commit": "2022-03-26T21:58:38Z",
+                    "owner": "facebookresearch",
+                    "repo": "Neural_3D_Video",
+                    "stars": 360
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Dynamic NeRF",
+                  "description": "Balloon1, Balloon2, Jumping, Playground, Skating, Truck, Umbrella",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 438090846,
+                    "language": "Python",
+                    "last_commit": "2022-04-22T16:33:25Z",
+                    "owner": "gaochen315",
+                    "repo": "DynamicNeRF",
+                    "stars": 250
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Real"
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-21T04:55:47Z",
-            "owner": "KAIR-BAIR",
-            "repo": "dycheck",
-            "stars": 218
-          }
+          "node_type": "group",
+          "title": "Custom Data Preparation"
         }
       ],
-      "title": "Custom Data Preparation"
+      "title": "1. Datasets"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Nerfies Dataset",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "4C4D: 4 Camera 4D Gaussian Splatting, CVPR 2026. Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1202055092,
+                "language": "Python",
+                "last_commit": "2026-04-07T02:15:07Z",
+                "owner": "yangzf-1023",
+                "repo": "4C4D",
+                "stars": 143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Splannequin: Freezing monocular mannequin-challenge footage with dual-detection splatting, WACV 2026 Page",
+              "description": ", Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1126226045,
+                "language": "Python",
+                "last_commit": "2026-01-02T07:19:47Z",
+                "owner": "chien90190",
+                "repo": "splannequin-gs",
+                "stars": 5
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-04-22T20:43:02Z",
-            "owner": "google",
-            "repo": "nerfies",
-            "stars": 1972
-          }
+          "node_type": "group",
+          "title": "2026"
         },
         {
-          "node_type": "item",
-          "title": "Hypernerf Dataset",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FreeTimeGS: Free Gaussian Primitives at Anytime Anywhere for Dynamic Scene Reconstruction, CVPR 2025. Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1139354831,
+                "language": "Python",
+                "last_commit": "2026-01-23T18:55:00Z",
+                "owner": "OpsiClear-4DGS",
+                "repo": "FreeTimeGsVanilla",
+                "stars": 177
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation, 2025. Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 951095859,
+                "language": "Python",
+                "last_commit": "2025-06-05T04:42:23Z",
+                "owner": "ohsngjun",
+                "repo": "3D-4DGS",
+                "stars": 163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "4dslomo: 4d reconstruction for high speed scene with asynchronous capture, Siggraph Asia 2025. Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1011160854,
+                "language": "Python",
+                "last_commit": "2025-10-27T07:21:02Z",
+                "owner": "OpenImagingLab",
+                "repo": "4DSloMo",
+                "stars": 140
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction, WACV 2025. Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 883808480,
+                "language": "Python",
+                "last_commit": "2025-06-11T16:41:41Z",
+                "owner": "fraunhoferhhi",
+                "repo": "AT-GS",
+                "stars": 89
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DASH: 4D Hash Encoding with Self-Supervised Decomposition for Real-Time Dynamic Scene Rendering, ICCV 2025. Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1014728414,
+                "language": "Python",
+                "last_commit": "2026-04-13T12:49:34Z",
+                "owner": "chenj02",
+                "repo": "DASH",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "4K4DGen: Panoramic 4D Generation at 4K Resolution, ICLR 2025. Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 977803393,
+                "language": "Python",
+                "last_commit": "2025-11-19T02:29:22Z",
+                "owner": "ShadowIterator",
+                "repo": "4K4DGen",
+                "stars": 28
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-05-03T20:24:40Z",
-            "owner": "google",
-            "repo": "hypernerf",
-            "stars": 962
-          }
+          "node_type": "group",
+          "title": "2025"
         },
         {
-          "node_type": "item",
-          "title": "Plenoptic Dataset",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis, Luiten et. al., International Conference on 3D Vision (3DV), 2024. [Paper",
+              "description": "Project Page | Code | Explanation Video]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 679920573,
+                "language": "Python",
+                "last_commit": "2023-12-22T06:49:05Z",
+                "owner": "JonathonLuiten",
+                "repo": "Dynamic3DGaussians",
+                "stars": 2292
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shape of Motion: 4D Reconstruction from a Single Video, 2024. [Project",
+              "description": "Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 802287995,
+                "language": "Python",
+                "last_commit": "2025-08-02T02:59:14Z",
+                "owner": "vye16",
+                "repo": "shape-of-motion",
+                "stars": 1301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[+] Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis, CVPR 2024. Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 736495761,
+                "language": "Python",
+                "last_commit": "2025-03-30T23:41:53Z",
+                "owner": "oppo-us-research",
+                "repo": "SpacetimeGaussians",
+                "stars": 829
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes. [Code",
+              "description": "]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 727214387,
+                "language": "Python",
+                "last_commit": "2025-06-27T10:11:06Z",
+                "owner": "CVMI-Lab",
+                "repo": "SC-GS",
+                "stars": 646
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting, [Paper",
+              "description": "Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 768781492,
+                "language": "Python",
+                "last_commit": "2025-08-30T09:59:13Z",
+                "owner": "lastbasket",
+                "repo": "Endo-4DGS",
+                "stars": 106
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sync-NeRF : Generalizing Dynamic NeRFs to Unsynchronized Videos, AAAI 2024. [Paper",
+              "description": ", Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 705507019,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-11-29T06:39:04Z",
+                "owner": "seoha-kim",
+                "repo": "Sync-NeRF",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos, AAAI2024. [Code",
+              "description": "]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 705507019,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-11-29T06:39:04Z",
+                "owner": "seoha-kim",
+                "repo": "Sync-NeRF",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Evdnerf: Reconstructing event data with dynamic neural radiance fields, WACV 2024. Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 699397511,
+                "language": "Python",
+                "last_commit": "2024-08-08T22:07:03Z",
+                "owner": "anish-bhattacharya",
+                "repo": "EvDNeRF",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CTNeRF: Cross-time Transformer for dynamic neural radiance field from monocular video, Pattern Recognition, 2024. Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 800012735,
+                "language": "Python",
+                "last_commit": "2024-07-16T19:00:13Z",
+                "owner": "xingy038",
+                "repo": "CTNeRF",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DynamicSurf: Dynamic Neural RGB-D Surface Reconstruction with an Optimizable Feature Grid, International Conference on 3D Vision (3DV) 2024. Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 721785297,
+                "language": "Python",
+                "last_commit": "2023-11-27T19:16:05Z",
+                "owner": "Mirgahney",
+                "repo": "dynsurf",
+                "stars": 6
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2022-03-26T21:58:38Z",
-            "owner": "facebookresearch",
-            "repo": "Neural_3D_Video",
-            "stars": 361
-          }
+          "node_type": "group",
+          "title": "2024"
         },
         {
-          "node_type": "item",
-          "title": "Dynamic NeRF",
-          "description": "Balloon1, Balloon2, Jumping, Playground, Skating, Truck, Umbrella",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-04-22T16:33:25Z",
-            "owner": "gaochen315",
-            "repo": "DynamicNeRF",
-            "stars": 250
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction, Yang et. al., ACM Transactions on Graphics, 2023. [Paper",
+              "description": "Project Page | Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 694492493,
+                "language": "Python",
+                "last_commit": "2024-06-25T03:06:44Z",
+                "owner": "ingra14m",
+                "repo": "Deformable-3D-Gaussians",
+                "stars": 1251
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling, CVPR 2023 (Highlight). Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 579200633,
+                "language": "Python",
+                "last_commit": "2025-02-12T17:10:03Z",
+                "owner": "facebookresearch",
+                "repo": "hyperreel",
+                "stars": 481
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HexPlane: A Fast Representation for Dynamic Scenes, Cao et. al., CVPR, 2023. [Paper",
+              "description": "Project Page | Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 624578219,
+                "language": "Python",
+                "last_commit": "2024-02-06T13:09:10Z",
+                "owner": "Caoang327",
+                "repo": "HexPlane",
+                "stars": 312
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Robust Dynamic Radiance Fields, Liu et. al., CVPR, 2023. [Code",
+              "description": "Kaggle]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 656884918,
+                "language": "Python",
+                "last_commit": "2023-11-19T03:42:08Z",
+                "owner": "facebookresearch",
+                "repo": "robust-dynrf",
+                "stars": 243
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tensor4D : Efficient Neural 4D Decomposition for High-fidelity Dynamic Reconstruction and Rendering, Shao et. al., CVPR, 2023. [Paper",
+              "description": "Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 618555162,
+                "language": "Python",
+                "last_commit": "2023-06-03T18:21:20Z",
+                "owner": "DSaurus",
+                "repo": "Tensor4D",
+                "stars": 231
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dynamic Mesh-Aware Radiance Fields, ICCV, 2023. [Project Page",
+              "description": "Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 679032386,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-02-28T19:59:41Z",
+                "owner": "YilingQiao",
+                "repo": "DMRF",
+                "stars": 179
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MixVoxels: Mixed Neural Voxels for Fast Multi-view Video Synthesis, ICCV2023 Oral. Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 572662799,
+                "language": "Python",
+                "last_commit": "2023-08-16T05:41:53Z",
+                "owner": "fengres",
+                "repo": "mixvoxels",
+                "stars": 175
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NeRFPlayer: A Streamable Dynamic Scene Representation with Decomposed Neural Radiance Fields, IEEE Transactions on Visualization and Computer Graphics, vol 29(5), 2023. [Code",
+              "description": "]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 653346923,
+                "language": "Python",
+                "last_commit": "2024-11-03T22:36:42Z",
+                "owner": "lsongx",
+                "repo": "nerfplayer-nerfstudio",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "V4D: Voxel for 4D Novel View Synthesis, Gan et. al., IEEE Transactions on Visualization and Computer Graphics, 2023. [Paper",
+              "description": "Code] (instructions for custom data)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 497161480,
+                "language": "Python",
+                "last_commit": "2023-10-11T18:08:53Z",
+                "owner": "GANWANSHUI",
+                "repo": "V4D",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "V4d: Voxel for 4d novel view synthesis, Gan et. al., IEEE Transactions on Visualization and Computer Graphics, 2023. [Code",
+              "description": "]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 497161480,
+                "language": "Python",
+                "last_commit": "2023-10-11T18:08:53Z",
+                "owner": "GANWANSHUI",
+                "repo": "V4D",
+                "stars": 33
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2023"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels, Fang et. al., ACM SIGGRAPH Asia 2022. [Project Page",
+              "description": "Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 496560512,
+                "language": "Python",
+                "last_commit": "2023-05-11T12:51:31Z",
+                "owner": "hustvl",
+                "repo": "TiNeuVox",
+                "stars": 351
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "D2NeRF: Self-Supervised Decoupling of Dynamic and Static Objects from a Monocular Video, NeurIPS, 2022. [Project Page",
+              "description": "Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 494525081,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-08-12T08:45:58Z",
+                "owner": "ChikaYan",
+                "repo": "d2nerf",
+                "stars": 192
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2022"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Nerfies: Deformable Neural Radiance Fields, ICCV, 2021. [Code",
+              "description": "] (instructions for custom data, this is the one everyone refering to)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 331759533,
+                "language": "Python",
+                "last_commit": "2024-04-22T20:43:02Z",
+                "owner": "google",
+                "repo": "nerfies",
+                "stars": 1973
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields, ACM Trans. Graph, 2021. [Code",
+              "description": "Project Page | Colab] (instructions for custom data)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 404599422,
+                "language": "Python",
+                "last_commit": "2024-05-03T20:24:40Z",
+                "owner": "google",
+                "repo": "hypernerf",
+                "stars": 962
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BARF: Bundle-Adjusting Neural Radiance Fields, Lin et. al., ICCV 2021 (Oral). [Code",
+              "description": "]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 382194855,
+                "language": "Python",
+                "last_commit": "2023-04-28T10:27:33Z",
+                "owner": "chenhsuanlin",
+                "repo": "bundle-adjusting-NeRF",
+                "stars": 822
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dynamic View Synthesis from Dynamic Monocular Video, ICCV, 2021. [Code",
+              "description": "]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 438090846,
+                "language": "Python",
+                "last_commit": "2022-04-22T16:33:25Z",
+                "owner": "gaochen315",
+                "repo": "DynamicNeRF",
+                "stars": 250
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2021"
         }
       ],
-      "title": "Real"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "4C4D: 4 Camera 4D Gaussian Splatting, CVPR 2026. Code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-07T02:15:07Z",
-            "owner": "yangzf-1023",
-            "repo": "4C4D",
-            "stars": 143
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Splannequin: Freezing monocular mannequin-challenge footage with dual-detection splatting, WACV 2026 Page",
-          "description": ", Code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-02T07:19:47Z",
-            "owner": "chien90190",
-            "repo": "splannequin-gs",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "2026"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "FreeTimeGS: Free Gaussian Primitives at Anytime Anywhere for Dynamic Scene Reconstruction, CVPR 2025. Code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-23T18:55:00Z",
-            "owner": "OpsiClear-4DGS",
-            "repo": "FreeTimeGsVanilla",
-            "stars": 177
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation, 2025. Code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-05T04:42:23Z",
-            "owner": "ohsngjun",
-            "repo": "3D-4DGS",
-            "stars": 163
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "4dslomo: 4d reconstruction for high speed scene with asynchronous capture, Siggraph Asia 2025. Code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-10-27T07:21:02Z",
-            "owner": "OpenImagingLab",
-            "repo": "4DSloMo",
-            "stars": 140
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction, WACV 2025. Code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-11T16:41:41Z",
-            "owner": "fraunhoferhhi",
-            "repo": "AT-GS",
-            "stars": 89
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DASH: 4D Hash Encoding with Self-Supervised Decomposition for Real-Time Dynamic Scene Rendering, ICCV 2025. Code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-13T12:49:34Z",
-            "owner": "chenj02",
-            "repo": "DASH",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "4K4DGen: Panoramic 4D Generation at 4K Resolution, ICLR 2025. Code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-19T02:29:22Z",
-            "owner": "ShadowIterator",
-            "repo": "4K4DGen",
-            "stars": 28
-          }
-        }
-      ],
-      "title": "2025"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis, Luiten et. al., International Conference on 3D Vision (3DV), 2024. [Paper",
-          "description": "Project Page | Code | Explanation Video]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-12-22T06:49:05Z",
-            "owner": "JonathonLuiten",
-            "repo": "Dynamic3DGaussians",
-            "stars": 2292
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shape of Motion: 4D Reconstruction from a Single Video, 2024. [Project",
-          "description": "Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-08-02T02:59:14Z",
-            "owner": "vye16",
-            "repo": "shape-of-motion",
-            "stars": 1301
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[+] Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis, CVPR 2024. Code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-30T23:41:53Z",
-            "owner": "oppo-us-research",
-            "repo": "SpacetimeGaussians",
-            "stars": 830
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes. [Code",
-          "description": "]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-27T10:11:06Z",
-            "owner": "CVMI-Lab",
-            "repo": "SC-GS",
-            "stars": 646
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting, [Paper",
-          "description": "Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-08-30T09:59:13Z",
-            "owner": "lastbasket",
-            "repo": "Endo-4DGS",
-            "stars": 106
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sync-NeRF : Generalizing Dynamic NeRFs to Unsynchronized Videos, AAAI 2024. [Paper",
-          "description": ", Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-11-29T06:39:04Z",
-            "owner": "seoha-kim",
-            "repo": "Sync-NeRF",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos, AAAI2024. [Code",
-          "description": "]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-11-29T06:39:04Z",
-            "owner": "seoha-kim",
-            "repo": "Sync-NeRF",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Evdnerf: Reconstructing event data with dynamic neural radiance fields, WACV 2024. Code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-08T22:07:03Z",
-            "owner": "anish-bhattacharya",
-            "repo": "EvDNeRF",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CTNeRF: Cross-time Transformer for dynamic neural radiance field from monocular video, Pattern Recognition, 2024. Code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-16T19:00:13Z",
-            "owner": "xingy038",
-            "repo": "CTNeRF",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DynamicSurf: Dynamic Neural RGB-D Surface Reconstruction with an Optimizable Feature Grid, International Conference on 3D Vision (3DV) 2024. Code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-11-27T19:16:05Z",
-            "owner": "Mirgahney",
-            "repo": "dynsurf",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "2024"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction, Yang et. al., ACM Transactions on Graphics, 2023. [Paper",
-          "description": "Project Page | Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-25T03:06:44Z",
-            "owner": "ingra14m",
-            "repo": "Deformable-3D-Gaussians",
-            "stars": 1251
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling, CVPR 2023 (Highlight). Code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-12T17:10:03Z",
-            "owner": "facebookresearch",
-            "repo": "hyperreel",
-            "stars": 481
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HexPlane: A Fast Representation for Dynamic Scenes, Cao et. al., CVPR, 2023. [Paper",
-          "description": "Project Page | Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-02-06T13:09:10Z",
-            "owner": "Caoang327",
-            "repo": "HexPlane",
-            "stars": 312
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Robust Dynamic Radiance Fields, Liu et. al., CVPR, 2023. [Code",
-          "description": "Kaggle]",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2023-11-19T03:42:08Z",
-            "owner": "facebookresearch",
-            "repo": "robust-dynrf",
-            "stars": 243
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tensor4D : Efficient Neural 4D Decomposition for High-fidelity Dynamic Reconstruction and Rendering, Shao et. al., CVPR, 2023. [Paper",
-          "description": "Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-06-03T18:21:20Z",
-            "owner": "DSaurus",
-            "repo": "Tensor4D",
-            "stars": 231
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dynamic Mesh-Aware Radiance Fields, ICCV, 2023. [Project Page",
-          "description": "Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-02-28T19:59:41Z",
-            "owner": "YilingQiao",
-            "repo": "DMRF",
-            "stars": 179
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MixVoxels: Mixed Neural Voxels for Fast Multi-view Video Synthesis, ICCV2023 Oral. Code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-08-16T05:41:53Z",
-            "owner": "fengres",
-            "repo": "mixvoxels",
-            "stars": 175
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NeRFPlayer: A Streamable Dynamic Scene Representation with Decomposed Neural Radiance Fields, IEEE Transactions on Visualization and Computer Graphics, vol 29(5), 2023. [Code",
-          "description": "]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-11-03T22:36:42Z",
-            "owner": "lsongx",
-            "repo": "nerfplayer-nerfstudio",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "V4D: Voxel for 4D Novel View Synthesis, Gan et. al., IEEE Transactions on Visualization and Computer Graphics, 2023. [Paper",
-          "description": "Code] (instructions for custom data)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-10-11T18:08:53Z",
-            "owner": "GANWANSHUI",
-            "repo": "V4D",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "V4d: Voxel for 4d novel view synthesis, Gan et. al., IEEE Transactions on Visualization and Computer Graphics, 2023. [Code",
-          "description": "]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-10-11T18:08:53Z",
-            "owner": "GANWANSHUI",
-            "repo": "V4D",
-            "stars": 33
-          }
-        }
-      ],
-      "title": "2023"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels, Fang et. al., ACM SIGGRAPH Asia 2022. [Project Page",
-          "description": "Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-05-11T12:51:31Z",
-            "owner": "hustvl",
-            "repo": "TiNeuVox",
-            "stars": 351
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "D2NeRF: Self-Supervised Decoupling of Dynamic and Static Objects from a Monocular Video, NeurIPS, 2022. [Project Page",
-          "description": "Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-08-12T08:45:58Z",
-            "owner": "ChikaYan",
-            "repo": "d2nerf",
-            "stars": 192
-          }
-        }
-      ],
-      "title": "2022"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Nerfies: Deformable Neural Radiance Fields, ICCV, 2021. [Code",
-          "description": "] (instructions for custom data, this is the one everyone refering to)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-04-22T20:43:02Z",
-            "owner": "google",
-            "repo": "nerfies",
-            "stars": 1972
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields, ACM Trans. Graph, 2021. [Code",
-          "description": "Project Page | Colab] (instructions for custom data)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-05-03T20:24:40Z",
-            "owner": "google",
-            "repo": "hypernerf",
-            "stars": 962
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BARF: Bundle-Adjusting Neural Radiance Fields, Lin et. al., ICCV 2021 (Oral). [Code",
-          "description": "]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-04-28T10:27:33Z",
-            "owner": "chenhsuanlin",
-            "repo": "bundle-adjusting-NeRF",
-            "stars": 822
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dynamic View Synthesis from Dynamic Monocular Video, ICCV, 2021. [Code",
-          "description": "]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-04-22T16:33:25Z",
-            "owner": "gaochen315",
-            "repo": "DynamicNeRF",
-            "stars": 250
-          }
-        }
-      ],
-      "title": "2021"
+      "title": "3. Papers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:30:51.709Z",
+    "last_updated": "2026-08-19T12:26:16.363Z",
     "original_repository": "pdaicode/awesome-dynamic-NeRF",
+    "original_repository_id": 775731057,
     "original_repository_sha": "a023ece9d6ca5391a4df8a450e845554e4a45db1",
     "enhanced_repository": "enhansome/enhansome-dynamic-NeRF",
     "enhanced_repository_description": null,
