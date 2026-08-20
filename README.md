@@ -63,7 +63,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 * SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes. \[[Code](https://github.com/yihua7/SC-GS) ⭐ 646 | 🐛 32 | 🌐 Python | 📅 2025-06-27]
 
-* Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting, \[[Paper](https://arxiv.org/abs/2401.16416) | [Code](https://github.com/lastbasket/Endo-4DGS) ⭐ 106 | 🐛 9 | 🌐 Python | 📅 2025-08-30]
+* Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting, \[[Paper](https://arxiv.org/abs/2401.16416) | [Code](https://github.com/lastbasket/Endo-4DGS) ⭐ 107 | 🐛 9 | 🌐 Python | 📅 2025-08-30]
 
 * Sync-NeRF : Generalizing Dynamic NeRFs to Unsynchronized Videos, AAAI 2024. \[[Paper](https://arxiv.org/abs/2310.13356), [Code](https://github.com/seoha-kim/Sync-NeRF) ⭐ 60 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-29]
 
@@ -135,4 +135,4 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
