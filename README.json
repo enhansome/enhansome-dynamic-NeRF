@@ -94,7 +94,7 @@
                     "last_commit": "2022-03-26T21:58:38Z",
                     "owner": "facebookresearch",
                     "repo": "Neural_3D_Video",
-                    "stars": 360
+                    "stars": 361
                   }
                 },
                 {
@@ -179,7 +179,7 @@
                 "last_commit": "2026-01-23T18:55:00Z",
                 "owner": "OpsiClear-4DGS",
                 "repo": "FreeTimeGsVanilla",
-                "stars": 177
+                "stars": 178
               }
             },
             {
@@ -306,7 +306,7 @@
                 "last_commit": "2025-03-30T23:41:53Z",
                 "owner": "oppo-us-research",
                 "repo": "SpacetimeGaussians",
-                "stars": 829
+                "stars": 831
               }
             },
             {
@@ -321,7 +321,7 @@
                 "last_commit": "2025-06-27T10:11:06Z",
                 "owner": "CVMI-Lab",
                 "repo": "SC-GS",
-                "stars": 646
+                "stars": 648
               }
             },
             {
@@ -433,7 +433,7 @@
                 "last_commit": "2024-06-25T03:06:44Z",
                 "owner": "ingra14m",
                 "repo": "Deformable-3D-Gaussians",
-                "stars": 1251
+                "stars": 1252
               }
             },
             {
@@ -685,7 +685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:33:44.808Z",
+    "last_updated": "2026-08-21T17:32:45.883Z",
     "original_repository": "pdaicode/awesome-dynamic-NeRF",
     "original_repository_id": 775731057,
     "original_repository_sha": "a023ece9d6ca5391a4df8a450e845554e4a45db1",
