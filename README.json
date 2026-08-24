@@ -179,7 +179,7 @@
                 "last_commit": "2026-01-23T18:55:00Z",
                 "owner": "OpsiClear-4DGS",
                 "repo": "FreeTimeGsVanilla",
-                "stars": 178
+                "stars": 180
               }
             },
             {
@@ -679,13 +679,35 @@
           "description": null,
           "node_type": "group",
           "title": "2021"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "D-NeRF: Neural Radiance Fields for Dynamic Scenes, Pumarola et. al, CVPR 2020. [Project Page",
+              "description": "Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 339154219,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-01-26T03:09:49Z",
+                "owner": "albertpumarola",
+                "repo": "D-NeRF",
+                "stars": 592
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2020"
         }
       ],
       "title": "3. Papers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:23:48.137Z",
+    "last_updated": "2026-08-24T14:47:38.556Z",
     "original_repository": "pdaicode/awesome-dynamic-NeRF",
     "original_repository_id": 775731057,
     "original_repository_sha": "a023ece9d6ca5391a4df8a450e845554e4a45db1",
