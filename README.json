@@ -276,7 +276,7 @@
                 "last_commit": "2023-12-22T06:49:05Z",
                 "owner": "JonathonLuiten",
                 "repo": "Dynamic3DGaussians",
-                "stars": 2292
+                "stars": 2291
               }
             },
             {
@@ -707,7 +707,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:47:38.556Z",
+    "last_updated": "2026-08-24T17:34:12.422Z",
     "original_repository": "pdaicode/awesome-dynamic-NeRF",
     "original_repository_id": 775731057,
     "original_repository_sha": "a023ece9d6ca5391a4df8a450e845554e4a45db1",
