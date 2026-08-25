@@ -101,7 +101,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ## 2023
 
-* Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction, Yang et. al., ACM Transactions on Graphics, 2023. \[[Paper](https://arxiv.org/pdf/2309.13101.pdf) | [Project Page](https://ingra14m.github.io/Deformable-Gaussians/) | [Code](https://github.com/ingra14m/Deformable-3D-Gaussians) ⭐ 1,253 | 🐛 64 | 🌐 Python | 📅 2024-06-25]
+* Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction, Yang et. al., ACM Transactions on Graphics, 2023. \[[Paper](https://arxiv.org/pdf/2309.13101.pdf) | [Project Page](https://ingra14m.github.io/Deformable-Gaussians/) | [Code](https://github.com/ingra14m/Deformable-3D-Gaussians) ⭐ 1,255 | 🐛 64 | 🌐 Python | 📅 2024-06-25]
 * HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling, CVPR 2023 (Highlight). [Code](https://github.com/facebookresearch/hyperreel) ⭐ 481 | 🐛 11 | 🌐 Python | 📅 2025-02-12
 * HexPlane: A Fast Representation for Dynamic Scenes, Cao et. al., CVPR, 2023. \[[Paper](https://caoang327.github.io/HexPlane/HexPlane.pdf) | [Project Page](https://caoang327.github.io/HexPlane/) | [Code](https://github.com/Caoang327/HexPlane) ⭐ 312 | 🐛 7 | 🌐 Python | 📅 2024-02-06]
 * Robust Dynamic Radiance Fields, Liu et. al., CVPR, 2023. \[[Code](https://github.com/facebookresearch/robust-dynrf) ⚠️ Archived | [Kaggle](https://www.kaggle.com/code/declanide/robust-nerf)]
