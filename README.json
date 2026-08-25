@@ -142,7 +142,7 @@
                 "last_commit": "2026-04-07T02:15:07Z",
                 "owner": "yangzf-1023",
                 "repo": "4C4D",
-                "stars": 143
+                "stars": 145
               }
             },
             {
@@ -707,7 +707,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:34:12.422Z",
+    "last_updated": "2026-08-25T06:37:40.824Z",
     "original_repository": "pdaicode/awesome-dynamic-NeRF",
     "original_repository_id": 775731057,
     "original_repository_sha": "a023ece9d6ca5391a4df8a450e845554e4a45db1",
