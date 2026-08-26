@@ -142,7 +142,7 @@
                 "last_commit": "2026-04-07T02:15:07Z",
                 "owner": "yangzf-1023",
                 "repo": "4C4D",
-                "stars": 145
+                "stars": 146
               }
             },
             {
@@ -276,7 +276,7 @@
                 "last_commit": "2023-12-22T06:49:05Z",
                 "owner": "JonathonLuiten",
                 "repo": "Dynamic3DGaussians",
-                "stars": 2291
+                "stars": 2292
               }
             },
             {
@@ -291,7 +291,7 @@
                 "last_commit": "2025-08-02T02:59:14Z",
                 "owner": "vye16",
                 "repo": "shape-of-motion",
-                "stars": 1301
+                "stars": 1302
               }
             },
             {
@@ -657,7 +657,7 @@
                 "last_commit": "2023-04-28T10:27:33Z",
                 "owner": "chenhsuanlin",
                 "repo": "bundle-adjusting-NeRF",
-                "stars": 822
+                "stars": 823
               }
             },
             {
@@ -707,7 +707,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:35:12.470Z",
+    "last_updated": "2026-08-26T19:07:01.109Z",
     "original_repository": "pdaicode/awesome-dynamic-NeRF",
     "original_repository_id": 775731057,
     "original_repository_sha": "a023ece9d6ca5391a4df8a450e845554e4a45db1",
