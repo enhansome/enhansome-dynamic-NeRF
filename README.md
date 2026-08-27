@@ -39,7 +39,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ## 2025
 
-* FreeTimeGS: Free Gaussian Primitives at Anytime Anywhere for Dynamic Scene Reconstruction, CVPR 2025. [Code](https://github.com/OpsiClear/FreeTimeGsVanilla) ⭐ 180 | 🐛 2 | 🌐 Python | 📅 2026-01-23
+* FreeTimeGS: Free Gaussian Primitives at Anytime Anywhere for Dynamic Scene Reconstruction, CVPR 2025. [Code](https://github.com/OpsiClear/FreeTimeGsVanilla) ⭐ 181 | 🐛 2 | 🌐 Python | 📅 2026-01-23
 
 * Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation, 2025. [Code](https://github.com/ohsngjun/3D-4DGS) ⭐ 163 | 🐛 9 | 🌐 Python | 📅 2025-06-05
 
@@ -135,4 +135,4 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

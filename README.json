@@ -179,7 +179,7 @@
                 "last_commit": "2026-01-23T18:55:00Z",
                 "owner": "OpsiClear-4DGS",
                 "repo": "FreeTimeGsVanilla",
-                "stars": 180
+                "stars": 181
               }
             },
             {
@@ -707,9 +707,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:07:01.109Z",
-    "original_repository": "pdaicode/awesome-dynamic-NeRF",
-    "original_repository_id": 775731057,
+    "last_updated": "2026-08-27T11:35:31.397Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 775731057,
+      "language": "Jupyter Notebook",
+      "last_commit": "2026-04-21T19:25:00Z",
+      "owner": "pdaicode",
+      "repo": "awesome-dynamic-NeRF",
+      "stars": 67
+    },
     "original_repository_sha": "a023ece9d6ca5391a4df8a450e845554e4a45db1",
     "enhanced_repository": "enhansome/enhansome-dynamic-NeRF",
     "enhanced_repository_description": null,
