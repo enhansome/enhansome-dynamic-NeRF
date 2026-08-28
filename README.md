@@ -33,7 +33,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ## 2026
 
-* 4C4D: 4 Camera 4D Gaussian Splatting, CVPR 2026. [Code](https://github.com/yangzf-1023/4C4D) ⭐ 146 | 🐛 4 | 🌐 Python | 📅 2026-04-07
+* 4C4D: 4 Camera 4D Gaussian Splatting, CVPR 2026. [Code](https://github.com/yangzf-1023/4C4D) ⭐ 147 | 🐛 4 | 🌐 Python | 📅 2026-04-07
 * Splannequin: Freezing monocular mannequin-challenge footage with dual-detection splatting, WACV 2026 [Page](https://chien90190.github.io/splannequin/), [Code](https://github.com/chien90190/splannequin-gs) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-01-02
 * ClipGStream: Clip-Stream Gaussian Splatting for Any Length and Any Motion Multi-View Dynamic Scene Reconstruction, CVPR 2026. [Project](https://liangjie1999.github.io/ClipGStreamWeb/)
 
@@ -135,4 +135,4 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
