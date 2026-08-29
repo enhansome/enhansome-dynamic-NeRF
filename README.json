@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of paper \"Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes\"",
+                "homepage": null,
                 "id": 330274429,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-07-15T16:14:03Z",
+                "open_issues": 23,
                 "owner": "zhengqili",
                 "repo": "Neural-Scene-Flow-Fields",
-                "stars": 740
+                "stars": 740,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An algorithm for reconstructing the radiance field of a dynamic scene from a casually-captured video.",
+                "homepage": null,
                 "id": 656884918,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-19T03:42:08Z",
+                "open_issues": 24,
                 "owner": "facebookresearch",
                 "repo": "robust-dynrf",
-                "stars": 243
+                "stars": 243,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -44,12 +54,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official JAX Implementation of Monocular Dynamic View Synthesis: A Reality Check (NeurIPS 2022)",
+                "homepage": "https://hangg7.com/dycheck",
                 "id": 556652955,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-12-21T04:55:47Z",
+                "open_issues": 6,
                 "owner": "KAIR-BAIR",
                 "repo": "dycheck",
-                "stars": 218
+                "stars": 218,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -62,12 +77,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "This is the code for Deformable Neural Radiance Fields, a.k.a. Nerfies.",
+                    "homepage": "https://nerfies.github.io",
                     "id": 331759533,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-04-22T20:43:02Z",
+                    "open_issues": 42,
                     "owner": "google",
                     "repo": "nerfies",
-                    "stars": 1973
+                    "stars": 1973,
+                    "topics": [
+                      "3d",
+                      "machine-learning",
+                      "nerf",
+                      "neural-network",
+                      "neural-rendering"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:53:43.535Z"
                 },
@@ -78,12 +104,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Code for \"HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields\".",
+                    "homepage": "https://hypernerf.github.io",
                     "id": 404599422,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-05-03T20:24:40Z",
+                    "open_issues": 36,
                     "owner": "google",
                     "repo": "hypernerf",
-                    "stars": 962
+                    "stars": 962,
+                    "topics": [
+                      "3d",
+                      "machine-learning",
+                      "nerf",
+                      "neural-network",
+                      "neural-rendering",
+                      "novel-view-synthesis"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:53:43.535Z"
                 },
@@ -94,12 +132,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "The repository for CVPR 2022 Paper \"Neural 3D Video Synthesis\"",
+                    "homepage": null,
                     "id": 471068418,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2022-03-26T21:58:38Z",
+                    "open_issues": 6,
                     "owner": "facebookresearch",
                     "repo": "Neural_3D_Video",
-                    "stars": 361
+                    "stars": 361,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:53:43.535Z"
                 },
@@ -110,12 +153,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 438090846,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-04-22T16:33:25Z",
+                    "open_issues": 8,
                     "owner": "gaochen315",
                     "repo": "DynamicNeRF",
-                    "stars": 251
+                    "stars": 251,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:53:43.535Z"
                 }
@@ -144,12 +192,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2026] 4C4D: 4 Camera 4D Gaussian Splatting",
+                "homepage": "https://junshengzhou.github.io/4C4D/",
                 "id": 1202055092,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-07T02:15:07Z",
+                "open_issues": 4,
                 "owner": "yangzf-1023",
                 "repo": "4C4D",
-                "stars": 147
+                "stars": 147,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -160,12 +213,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Splannequin official code",
+                "homepage": null,
                 "id": 1126226045,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-02T07:19:47Z",
+                "open_issues": 0,
                 "owner": "chien90190",
                 "repo": "splannequin-gs",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             }
@@ -183,12 +241,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1139354831,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-01-23T18:55:00Z",
+                "open_issues": 2,
                 "owner": "OpsiClear-4DGS",
                 "repo": "FreeTimeGsVanilla",
-                "stars": 181
+                "stars": 181,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -199,12 +262,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 951095859,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-05T04:42:23Z",
+                "open_issues": 9,
                 "owner": "ohsngjun",
                 "repo": "3D-4DGS",
-                "stars": 163
+                "stars": 163,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -215,12 +283,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[SIGGRAPH Asia 2025] 4DSloMo: 4D Reconstruction for High Speed Scene with Asynchronous Capture",
+                "homepage": "https://openimaginglab.github.io/4DSloMo/",
                 "id": 1011160854,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-27T07:21:02Z",
+                "open_issues": 6,
                 "owner": "OpenImagingLab",
                 "repo": "4DSloMo",
-                "stars": 140
+                "stars": 140,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -231,12 +304,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction",
+                "homepage": null,
                 "id": 883808480,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-11T16:41:41Z",
+                "open_issues": 0,
                 "owner": "fraunhoferhhi",
                 "repo": "AT-GS",
-                "stars": 89
+                "stars": 89,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -247,12 +325,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] DASH: 4D Hash Encoding with Self-Supervised Decomposition for Real-Time Dynamic Scene Rendering",
+                "homepage": null,
                 "id": 1014728414,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-13T12:49:34Z",
+                "open_issues": 5,
                 "owner": "chenj02",
                 "repo": "DASH",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -263,12 +346,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 977803393,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-11-19T02:29:22Z",
+                "open_issues": 0,
                 "owner": "ShadowIterator",
                 "repo": "4K4DGen",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             }
@@ -286,12 +374,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 679920573,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-22T06:49:05Z",
+                "open_issues": 32,
                 "owner": "JonathonLuiten",
                 "repo": "Dynamic3DGaussians",
-                "stars": 2292
+                "stars": 2292,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -302,12 +395,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 802287995,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-02T02:59:14Z",
+                "open_issues": 58,
                 "owner": "vye16",
                 "repo": "shape-of-motion",
-                "stars": 1302
+                "stars": 1302,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -318,12 +416,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis",
+                "homepage": "https://oppo-us-research.github.io/SpacetimeGaussians-website/",
                 "id": 736495761,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-30T23:41:53Z",
+                "open_issues": 53,
                 "owner": "oppo-us-research",
                 "repo": "SpacetimeGaussians",
-                "stars": 831
+                "stars": 831,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -334,12 +437,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] Code for SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes",
+                "homepage": "https://yihua7.github.io/SC-GS-web/",
                 "id": 727214387,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-27T10:11:06Z",
+                "open_issues": 32,
                 "owner": "CVMI-Lab",
                 "repo": "SC-GS",
-                "stars": 648
+                "stars": 648,
+                "topics": [
+                  "dynamic-nerf",
+                  "gaussian-splatting",
+                  "motion-editing"
+                ]
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -350,12 +462,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MICCAI 2024:  Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting",
+                "homepage": null,
                 "id": 768781492,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-30T09:59:13Z",
+                "open_issues": 9,
                 "owner": "lastbasket",
                 "repo": "Endo-4DGS",
-                "stars": 107
+                "stars": 107,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -366,12 +483,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI 2024] Official repository for \"Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos\"",
+                "homepage": null,
                 "id": 705507019,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-11-29T06:39:04Z",
+                "open_issues": 0,
                 "owner": "seoha-kim",
                 "repo": "Sync-NeRF",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -382,12 +504,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI 2024] Official repository for \"Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos\"",
+                "homepage": null,
                 "id": 705507019,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-11-29T06:39:04Z",
+                "open_issues": 0,
                 "owner": "seoha-kim",
                 "repo": "Sync-NeRF",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -398,12 +525,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Event-based dynamic neural radiance fields for generating eventstreams from novel viewpoints and time windows. WACV 2024.",
+                "homepage": "https://www.anishbhattacharya.com/research/evdnerf",
                 "id": 699397511,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-08T22:07:03Z",
+                "open_issues": 0,
                 "owner": "anish-bhattacharya",
                 "repo": "EvDNeRF",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "3d-vision",
+                  "event-based-vision",
+                  "event-cameras",
+                  "events",
+                  "neural-implicit-representations",
+                  "neural-radiance-fields",
+                  "wacv2024"
+                ]
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -414,12 +554,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 800012735,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-16T19:00:13Z",
+                "open_issues": 0,
                 "owner": "xingy038",
                 "repo": "CTNeRF",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -430,12 +575,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 721785297,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-27T19:16:05Z",
+                "open_issues": 1,
                 "owner": "Mirgahney",
                 "repo": "dynsurf",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             }
@@ -453,12 +603,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] Official implementation of \"Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction\"",
+                "homepage": "https://ingra14m.github.io/Deformable-Gaussians/",
                 "id": 694492493,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-25T03:06:44Z",
+                "open_issues": 64,
                 "owner": "ingra14m",
                 "repo": "Deformable-3D-Gaussians",
-                "stars": 1255
+                "stars": 1255,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -469,12 +624,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code release for HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling",
+                "homepage": null,
                 "id": 579200633,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-12T17:10:03Z",
+                "open_issues": 11,
                 "owner": "facebookresearch",
                 "repo": "hyperreel",
-                "stars": 481
+                "stars": 481,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -485,12 +645,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code for CVPR 2023 Paper, HexPlane: A Fast Representation for Dynamic Scenes",
+                "homepage": null,
                 "id": 624578219,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-06T13:09:10Z",
+                "open_issues": 7,
                 "owner": "Caoang327",
                 "repo": "HexPlane",
-                "stars": 312
+                "stars": 312,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -501,12 +666,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An algorithm for reconstructing the radiance field of a dynamic scene from a casually-captured video.",
+                "homepage": null,
                 "id": 656884918,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-19T03:42:08Z",
+                "open_issues": 24,
                 "owner": "facebookresearch",
                 "repo": "robust-dynrf",
-                "stars": 243
+                "stars": 243,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -517,12 +687,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official implementation of Tensor4D: Efficient Neural 4D Decomposition for High-fidelity Dynamic Reconstruction and Rendering. ",
+                "homepage": null,
                 "id": 618555162,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-03T18:21:20Z",
+                "open_issues": 12,
                 "owner": "DSaurus",
                 "repo": "Tensor4D",
-                "stars": 231
+                "stars": 231,
+                "topics": [
+                  "3d-reconstruction",
+                  "4d",
+                  "machine-learning",
+                  "nerf",
+                  "pytorch",
+                  "rendering"
+                ]
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -533,12 +715,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dynamic Mesh-Aware Radiance Fields (ICCV2023): Raytracing rendering and interactive simulating mesh with NeRF",
+                "homepage": "https://mesh-aware-rf.github.io/",
                 "id": 679032386,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2024-02-28T19:59:41Z",
+                "open_issues": 2,
                 "owner": "YilingQiao",
                 "repo": "DMRF",
-                "stars": 179
+                "stars": 179,
+                "topics": [
+                  "cuda",
+                  "nerf",
+                  "raytracing",
+                  "simulation"
+                ]
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -549,12 +741,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ICCV2023 (Oral) MixVoxels https://arxiv.org/abs/2212.00190",
+                "homepage": null,
                 "id": 572662799,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-08-16T05:41:53Z",
+                "open_issues": 7,
                 "owner": "fengres",
                 "repo": "mixvoxels",
-                "stars": 175
+                "stars": 175,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -565,12 +762,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 653346923,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-11-03T22:36:42Z",
+                "open_issues": 5,
                 "owner": "lsongx",
                 "repo": "nerfplayer-nerfstudio",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -581,12 +783,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(IEEE TVCG) Voxel for 4D Novel View Synthesis",
+                "homepage": null,
                 "id": 497161480,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-10-11T18:08:53Z",
+                "open_issues": 0,
                 "owner": "GANWANSHUI",
                 "repo": "V4D",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -597,12 +804,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(IEEE TVCG) Voxel for 4D Novel View Synthesis",
+                "homepage": null,
                 "id": 497161480,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-10-11T18:08:53Z",
+                "open_issues": 0,
                 "owner": "GANWANSHUI",
                 "repo": "V4D",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             }
@@ -620,12 +832,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels (SIGGRAPH Asia 2022)",
+                "homepage": "https://jaminfong.cn/tineuvox",
                 "id": 496560512,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-11T12:51:31Z",
+                "open_issues": 6,
                 "owner": "hustvl",
                 "repo": "TiNeuVox",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "3d",
+                  "computer-graphics",
+                  "computer-vision",
+                  "deep-learning",
+                  "dynamic-scenes",
+                  "machine-learning",
+                  "nerf",
+                  "neural-network",
+                  "tineuvox",
+                  "view-synthesis"
+                ]
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -636,12 +864,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 494525081,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2023-08-12T08:45:58Z",
+                "open_issues": 1,
                 "owner": "ChikaYan",
                 "repo": "d2nerf",
-                "stars": 192
+                "stars": 192,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             }
@@ -659,12 +892,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This is the code for Deformable Neural Radiance Fields, a.k.a. Nerfies.",
+                "homepage": "https://nerfies.github.io",
                 "id": 331759533,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-22T20:43:02Z",
+                "open_issues": 42,
                 "owner": "google",
                 "repo": "nerfies",
-                "stars": 1973
+                "stars": 1973,
+                "topics": [
+                  "3d",
+                  "machine-learning",
+                  "nerf",
+                  "neural-network",
+                  "neural-rendering"
+                ]
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -675,12 +919,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Code for \"HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields\".",
+                "homepage": "https://hypernerf.github.io",
                 "id": 404599422,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-03T20:24:40Z",
+                "open_issues": 36,
                 "owner": "google",
                 "repo": "hypernerf",
-                "stars": 962
+                "stars": 962,
+                "topics": [
+                  "3d",
+                  "machine-learning",
+                  "nerf",
+                  "neural-network",
+                  "neural-rendering",
+                  "novel-view-synthesis"
+                ]
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -691,12 +947,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BARF: Bundle-Adjusting Neural Radiance Fields 🤮 (ICCV 2021 oral)",
+                "homepage": null,
                 "id": 382194855,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-04-28T10:27:33Z",
+                "open_issues": 16,
                 "owner": "chenhsuanlin",
                 "repo": "bundle-adjusting-NeRF",
-                "stars": 823
+                "stars": 823,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             },
@@ -707,12 +968,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 438090846,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-04-22T16:33:25Z",
+                "open_issues": 8,
                 "owner": "gaochen315",
                 "repo": "DynamicNeRF",
-                "stars": 251
+                "stars": 251,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             }
@@ -730,12 +996,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 339154219,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-01-26T03:09:49Z",
+                "open_issues": 15,
                 "owner": "albertpumarola",
                 "repo": "D-NeRF",
-                "stars": 592
+                "stars": 592,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
             }
@@ -749,15 +1020,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:53:43.535Z",
+    "last_updated": "2026-08-29T05:04:15.932Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome neural radiance fields for dynamic scenes",
+      "homepage": null,
       "id": 775731057,
       "language": "Jupyter Notebook",
+      "license": null,
       "last_commit": "2026-04-21T19:25:00Z",
+      "open_issues": 1,
       "owner": "pdaicode",
       "repo": "awesome-dynamic-NeRF",
-      "stars": 67
+      "stars": 67,
+      "topics": [
+        "3d",
+        "awesome-list",
+        "dynamic-nerf",
+        "literature-review",
+        "nerf",
+        "volume-rendering",
+        "volumetric-rendering"
+      ]
     },
     "original_repository_sha": "a023ece9d6ca5391a4df8a450e845554e4a45db1",
     "enhanced_repository": "enhansome/enhansome-dynamic-NeRF",
