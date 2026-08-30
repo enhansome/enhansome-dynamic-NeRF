@@ -10,7 +10,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
   Instructions for custom data.
 * [Robust Dynamic Radiance Fields](https://github.com/facebookresearch/robust-dynrf) ⚠️ Archived
   Estimate monocular depth, Predict optical flows, Obtain motion mask.
-* [Monocular Dynamic View Synthesis: A Reality Check](https://github.com/KAIR-BAIR/dycheck/blob/main/docs/RECORD3D_CAPTURE.md) ⭐ 218 | 🐛 6 | 🌐 Python | 📅 2024-12-21
+* [Monocular Dynamic View Synthesis: A Reality Check](https://github.com/KAIR-BAIR/dycheck/blob/main/docs/RECORD3D_CAPTURE.md) ⭐ 219 | 🐛 6 | 🌐 Python | 📅 2024-12-21
 * [Process a video into a Nerfie dataset](https://colab.research.google.com/github/google/nerfies/blob/main/notebooks/Nerfies_Capture_Processing.ipynb)
 
 ### Synthetic
@@ -135,4 +135,4 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._

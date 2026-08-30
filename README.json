@@ -63,7 +63,7 @@
                 "open_issues": 6,
                 "owner": "KAIR-BAIR",
                 "repo": "dycheck",
-                "stars": 218,
+                "stars": 219,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:38:28.139Z",
+    "last_updated": "2026-08-30T19:40:17.076Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields for dynamic scenes",
