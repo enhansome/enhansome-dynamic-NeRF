@@ -201,7 +201,7 @@
                 "open_issues": 4,
                 "owner": "yangzf-1023",
                 "repo": "4C4D",
-                "stars": 148,
+                "stars": 149,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -222,7 +222,7 @@
                 "open_issues": 0,
                 "owner": "chien90190",
                 "repo": "splannequin-gs",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -271,7 +271,7 @@
                 "open_issues": 9,
                 "owner": "ohsngjun",
                 "repo": "3D-4DGS",
-                "stars": 163,
+                "stars": 162,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -292,7 +292,7 @@
                 "open_issues": 6,
                 "owner": "OpenImagingLab",
                 "repo": "4DSloMo",
-                "stars": 140,
+                "stars": 141,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -584,7 +584,7 @@
                 "open_issues": 1,
                 "owner": "Mirgahney",
                 "repo": "dynsurf",
-                "stars": 6,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -612,7 +612,7 @@
                 "open_issues": 64,
                 "owner": "ingra14m",
                 "repo": "Deformable-3D-Gaussians",
-                "stars": 1256,
+                "stars": 1257,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T19:40:53.336Z",
+    "last_updated": "2026-09-04T19:21:22.810Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields for dynamic scenes",
