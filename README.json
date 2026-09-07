@@ -250,7 +250,7 @@
                 "open_issues": 2,
                 "owner": "OpsiClear-4DGS",
                 "repo": "FreeTimeGsVanilla",
-                "stars": 184,
+                "stars": 183,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -383,7 +383,7 @@
                 "open_issues": 32,
                 "owner": "JonathonLuiten",
                 "repo": "Dynamic3DGaussians",
-                "stars": 2295,
+                "stars": 2296,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -404,7 +404,7 @@
                 "open_issues": 58,
                 "owner": "vye16",
                 "repo": "shape-of-motion",
-                "stars": 1303,
+                "stars": 1304,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T18:57:20.855Z",
+    "last_updated": "2026-09-07T20:23:58.500Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields for dynamic scenes",
