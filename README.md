@@ -39,7 +39,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ## 2025
 
-* FreeTimeGS: Free Gaussian Primitives at Anytime Anywhere for Dynamic Scene Reconstruction, CVPR 2025. [Code](https://github.com/OpsiClear/FreeTimeGsVanilla) ⭐ 184 | 🐛 2 | 🌐 Python | 📅 2026-01-23
+* FreeTimeGS: Free Gaussian Primitives at Anytime Anywhere for Dynamic Scene Reconstruction, CVPR 2025. [Code](https://github.com/OpsiClear/FreeTimeGsVanilla) ⭐ 185 | 🐛 2 | 🌐 Python | 📅 2026-01-23
 
 * Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation, 2025. [Code](https://github.com/ohsngjun/3D-4DGS) ⭐ 163 | 🐛 9 | 🌐 Python | 📅 2025-06-05
 
@@ -57,7 +57,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 * Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis, Luiten et. al., International Conference on 3D Vision (3DV), 2024. \[[Paper](https://dynamic3dgaussians.github.io/paper.pdf) | [Project Page](https://dynamic3dgaussians.github.io/) | [Code](https://github.com/JonathonLuiten/Dynamic3DGaussians) ⭐ 2,296 | 🐛 32 | 🌐 Python | 📅 2023-12-22 | [Explanation Video](https://www.youtube.com/live/hDuy1TgD8I4?si=6oGN0IYnPRxOibpg)]
 
-* Shape of Motion: 4D Reconstruction from a Single Video, 2024. \[[Project](https://shape-of-motion.github.io/) | [Code](https://github.com/vye16/shape-of-motion/) ⭐ 1,305 | 🐛 58 | 🌐 Python | 📅 2025-08-02]
+* Shape of Motion: 4D Reconstruction from a Single Video, 2024. \[[Project](https://shape-of-motion.github.io/) | [Code](https://github.com/vye16/shape-of-motion/) ⭐ 1,306 | 🐛 58 | 🌐 Python | 📅 2025-08-02]
 
 * \[+] Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis, CVPR 2024. [Code](https://github.com/oppo-us-research/SpacetimeGaussians) ⭐ 832 | 🐛 53 | 🌐 Python | 📅 2025-03-30
 
@@ -101,7 +101,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ## 2023
 
-* Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction, Yang et. al., ACM Transactions on Graphics, 2023. \[[Paper](https://arxiv.org/pdf/2309.13101.pdf) | [Project Page](https://ingra14m.github.io/Deformable-Gaussians/) | [Code](https://github.com/ingra14m/Deformable-3D-Gaussians) ⭐ 1,257 | 🐛 64 | 🌐 Python | 📅 2024-06-25]
+* Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction, Yang et. al., ACM Transactions on Graphics, 2023. \[[Paper](https://arxiv.org/pdf/2309.13101.pdf) | [Project Page](https://ingra14m.github.io/Deformable-Gaussians/) | [Code](https://github.com/ingra14m/Deformable-3D-Gaussians) ⭐ 1,258 | 🐛 64 | 🌐 Python | 📅 2024-06-25]
 * HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling, CVPR 2023 (Highlight). [Code](https://github.com/facebookresearch/hyperreel) ⭐ 481 | 🐛 11 | 🌐 Python | 📅 2025-02-12
 * HexPlane: A Fast Representation for Dynamic Scenes, Cao et. al., CVPR, 2023. \[[Paper](https://caoang327.github.io/HexPlane/HexPlane.pdf) | [Project Page](https://caoang327.github.io/HexPlane/) | [Code](https://github.com/Caoang327/HexPlane) ⭐ 312 | 🐛 7 | 🌐 Python | 📅 2024-02-06]
 * Robust Dynamic Radiance Fields, Liu et. al., CVPR, 2023. \[[Code](https://github.com/facebookresearch/robust-dynrf) ⚠️ Archived | [Kaggle](https://www.kaggle.com/code/declanide/robust-nerf)]
@@ -135,4 +135,4 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
