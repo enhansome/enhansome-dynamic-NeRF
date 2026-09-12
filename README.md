@@ -6,7 +6,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ## Custom Data Preparation
 
-* [Neural Scene Flow Fields](https://github.com/zhengqili/Neural-Scene-Flow-Fields/tree/main) ⭐ 740 | 🐛 23 | 🌐 Python | 📅 2022-07-15
+* [Neural Scene Flow Fields](https://github.com/zhengqili/Neural-Scene-Flow-Fields/tree/main) ⭐ 741 | 🐛 23 | 🌐 Python | 📅 2022-07-15
   Instructions for custom data.
 * [Robust Dynamic Radiance Fields](https://github.com/facebookresearch/robust-dynrf) ⚠️ Archived
   Estimate monocular depth, Predict optical flows, Obtain motion mask.
@@ -41,7 +41,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 * FreeTimeGS: Free Gaussian Primitives at Anytime Anywhere for Dynamic Scene Reconstruction, CVPR 2025. [Code](https://github.com/OpsiClear/FreeTimeGsVanilla) ⭐ 186 | 🐛 2 | 🌐 Python | 📅 2026-01-23
 
-* Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation, 2025. [Code](https://github.com/ohsngjun/3D-4DGS) ⭐ 163 | 🐛 9 | 🌐 Python | 📅 2025-06-05
+* Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation, 2025. [Code](https://github.com/ohsngjun/3D-4DGS) ⭐ 164 | 🐛 9 | 🌐 Python | 📅 2025-06-05
 
 * 4dslomo: 4d reconstruction for high speed scene with asynchronous capture, Siggraph Asia 2025. [Code](https://github.com/OpenImagingLab/4DSloMo) ⭐ 141 | 🐛 6 | 🌐 Python | 📅 2025-10-27
 
@@ -135,4 +135,4 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
