@@ -201,7 +201,7 @@
                 "open_issues": 4,
                 "owner": "yangzf-1023",
                 "repo": "4C4D",
-                "stars": 150,
+                "stars": 151,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -219,7 +219,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-01-02T07:19:47Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "chien90190",
                 "repo": "splannequin-gs",
                 "stars": 6,
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T19:03:36.138Z",
+    "last_updated": "2026-09-13T19:14:49.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields for dynamic scenes",
