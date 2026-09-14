@@ -63,7 +63,7 @@
                 "open_issues": 6,
                 "owner": "KAIR-BAIR",
                 "repo": "dycheck",
-                "stars": 219,
+                "stars": 220,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -201,7 +201,7 @@
                 "open_issues": 4,
                 "owner": "yangzf-1023",
                 "repo": "4C4D",
-                "stars": 151,
+                "stars": 153,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -383,7 +383,7 @@
                 "open_issues": 32,
                 "owner": "JonathonLuiten",
                 "repo": "Dynamic3DGaussians",
-                "stars": 2297,
+                "stars": 2298,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -404,7 +404,7 @@
                 "open_issues": 58,
                 "owner": "vye16",
                 "repo": "shape-of-motion",
-                "stars": 1306,
+                "stars": 1308,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -425,7 +425,7 @@
                 "open_issues": 53,
                 "owner": "oppo-us-research",
                 "repo": "SpacetimeGaussians",
-                "stars": 833,
+                "stars": 834,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -612,7 +612,7 @@
                 "open_issues": 64,
                 "owner": "ingra14m",
                 "repo": "Deformable-3D-Gaussians",
-                "stars": 1258,
+                "stars": 1259,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T19:14:49.069Z",
+    "last_updated": "2026-09-14T20:48:23.642Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields for dynamic scenes",
