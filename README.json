@@ -425,7 +425,7 @@
                 "open_issues": 53,
                 "owner": "oppo-us-research",
                 "repo": "SpacetimeGaussians",
-                "stars": 834,
+                "stars": 835,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -696,7 +696,7 @@
                 "open_issues": 12,
                 "owner": "DSaurus",
                 "repo": "Tensor4D",
-                "stars": 231,
+                "stars": 232,
                 "topics": [
                   "3d-reconstruction",
                   "4d",
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T20:48:23.642Z",
+    "last_updated": "2026-09-15T20:04:43.225Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields for dynamic scenes",
@@ -1032,7 +1032,7 @@
       "open_issues": 1,
       "owner": "pdaicode",
       "repo": "awesome-dynamic-NeRF",
-      "stars": 67,
+      "stars": 68,
       "topics": [
         "3d",
         "awesome-list",

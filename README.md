@@ -59,7 +59,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 * Shape of Motion: 4D Reconstruction from a Single Video, 2024. \[[Project](https://shape-of-motion.github.io/) | [Code](https://github.com/vye16/shape-of-motion/) ⭐ 1,308 | 🐛 58 | 🌐 Python | 📅 2025-08-02]
 
-* \[+] Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis, CVPR 2024. [Code](https://github.com/oppo-us-research/SpacetimeGaussians) ⭐ 834 | 🐛 53 | 🌐 Python | 📅 2025-03-30
+* \[+] Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis, CVPR 2024. [Code](https://github.com/oppo-us-research/SpacetimeGaussians) ⭐ 835 | 🐛 53 | 🌐 Python | 📅 2025-03-30
 
 * SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes. \[[Code](https://github.com/yihua7/SC-GS) ⭐ 649 | 🐛 32 | 🌐 Python | 📅 2025-06-27]
 
@@ -105,7 +105,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 * HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling, CVPR 2023 (Highlight). [Code](https://github.com/facebookresearch/hyperreel) ⭐ 481 | 🐛 11 | 🌐 Python | 📅 2025-02-12
 * HexPlane: A Fast Representation for Dynamic Scenes, Cao et. al., CVPR, 2023. \[[Paper](https://caoang327.github.io/HexPlane/HexPlane.pdf) | [Project Page](https://caoang327.github.io/HexPlane/) | [Code](https://github.com/Caoang327/HexPlane) ⭐ 312 | 🐛 7 | 🌐 Python | 📅 2024-02-06]
 * Robust Dynamic Radiance Fields, Liu et. al., CVPR, 2023. \[[Code](https://github.com/facebookresearch/robust-dynrf) ⚠️ Archived | [Kaggle](https://www.kaggle.com/code/declanide/robust-nerf)]
-* Tensor4D : Efficient Neural 4D Decomposition for High-fidelity Dynamic Reconstruction and Rendering, Shao et. al., CVPR, 2023. \[[Paper](https://arxiv.org/abs/2211.11610) | [Code](https://github.com/DSaurus/Tensor4D) ⭐ 231 | 🐛 12 | 🌐 Python | 📅 2023-06-03]
+* Tensor4D : Efficient Neural 4D Decomposition for High-fidelity Dynamic Reconstruction and Rendering, Shao et. al., CVPR, 2023. \[[Paper](https://arxiv.org/abs/2211.11610) | [Code](https://github.com/DSaurus/Tensor4D) ⭐ 232 | 🐛 12 | 🌐 Python | 📅 2023-06-03]
 * Dynamic Mesh-Aware Radiance Fields, ICCV, 2023. \[[Project Page](https://mesh-aware-rf.github.io/) | [Code](https://github.com/YilingQiao/DMRF) ⭐ 179 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-02-28]
 * MixVoxels: Mixed Neural Voxels for Fast Multi-view Video Synthesis, ICCV2023 Oral. [Code](https://github.com/fengres/mixvoxels) ⭐ 175 | 🐛 7 | 🌐 Python | 📅 2023-08-16
 * NeRFPlayer: A Streamable Dynamic Scene Representation with Decomposed Neural Radiance Fields, IEEE Transactions on Visualization and Computer Graphics, vol 29(5), 2023. \[[Code](https://github.com/lsongx/nerfplayer-nerfstudio) ⭐ 53 | 🐛 5 | 🌐 Python | 📅 2024-11-03]
@@ -135,4 +135,4 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
