@@ -10,7 +10,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
   Instructions for custom data.
 * [Robust Dynamic Radiance Fields](https://github.com/facebookresearch/robust-dynrf) ⚠️ Archived
   Estimate monocular depth, Predict optical flows, Obtain motion mask.
-* [Monocular Dynamic View Synthesis: A Reality Check](https://github.com/KAIR-BAIR/dycheck/blob/main/docs/RECORD3D_CAPTURE.md) ⭐ 220 | 🐛 6 | 🌐 Python | 📅 2024-12-21
+* [Monocular Dynamic View Synthesis: A Reality Check](https://github.com/KAIR-BAIR/dycheck/blob/main/docs/RECORD3D_CAPTURE.md) ⭐ 221 | 🐛 6 | 🌐 Python | 📅 2024-12-21
 * [Process a video into a Nerfie dataset](https://colab.research.google.com/github/google/nerfies/blob/main/notebooks/Nerfies_Capture_Processing.ipynb)
 
 ### Synthetic
@@ -33,13 +33,13 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ## 2026
 
-* 4C4D: 4 Camera 4D Gaussian Splatting, CVPR 2026. [Code](https://github.com/yangzf-1023/4C4D) ⭐ 157 | 🐛 4 | 🌐 Python | 📅 2026-04-07
+* 4C4D: 4 Camera 4D Gaussian Splatting, CVPR 2026. [Code](https://github.com/yangzf-1023/4C4D) ⭐ 159 | 🐛 4 | 🌐 Python | 📅 2026-04-07
 * Splannequin: Freezing monocular mannequin-challenge footage with dual-detection splatting, WACV 2026 [Page](https://chien90190.github.io/splannequin/), [Code](https://github.com/chien90190/splannequin-gs) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2026-01-02
 * ClipGStream: Clip-Stream Gaussian Splatting for Any Length and Any Motion Multi-View Dynamic Scene Reconstruction, CVPR 2026. [Project](https://liangjie1999.github.io/ClipGStreamWeb/)
 
 ## 2025
 
-* FreeTimeGS: Free Gaussian Primitives at Anytime Anywhere for Dynamic Scene Reconstruction, CVPR 2025. [Code](https://github.com/OpsiClear/FreeTimeGsVanilla) ⭐ 186 | 🐛 2 | 🌐 Python | 📅 2026-01-23
+* FreeTimeGS: Free Gaussian Primitives at Anytime Anywhere for Dynamic Scene Reconstruction, CVPR 2025. [Code](https://github.com/OpsiClear/FreeTimeGsVanilla) ⭐ 187 | 🐛 2 | 🌐 Python | 📅 2026-01-23
 
 * Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation, 2025. [Code](https://github.com/ohsngjun/3D-4DGS) ⭐ 163 | 🐛 9 | 🌐 Python | 📅 2025-06-05
 
@@ -135,4 +135,4 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._

@@ -63,7 +63,7 @@
                 "open_issues": 6,
                 "owner": "KAIR-BAIR",
                 "repo": "dycheck",
-                "stars": 220,
+                "stars": 221,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -86,7 +86,7 @@
                     "open_issues": 42,
                     "owner": "google",
                     "repo": "nerfies",
-                    "stars": 1973,
+                    "stars": 1974,
                     "topics": [
                       "3d",
                       "machine-learning",
@@ -113,7 +113,7 @@
                     "open_issues": 36,
                     "owner": "google",
                     "repo": "hypernerf",
-                    "stars": 962,
+                    "stars": 961,
                     "topics": [
                       "3d",
                       "machine-learning",
@@ -201,7 +201,7 @@
                 "open_issues": 4,
                 "owner": "yangzf-1023",
                 "repo": "4C4D",
-                "stars": 157,
+                "stars": 159,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -250,7 +250,7 @@
                 "open_issues": 2,
                 "owner": "OpsiClear-4DGS",
                 "repo": "FreeTimeGsVanilla",
-                "stars": 186,
+                "stars": 187,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -901,7 +901,7 @@
                 "open_issues": 42,
                 "owner": "google",
                 "repo": "nerfies",
-                "stars": 1973,
+                "stars": 1974,
                 "topics": [
                   "3d",
                   "machine-learning",
@@ -928,7 +928,7 @@
                 "open_issues": 36,
                 "owner": "google",
                 "repo": "hypernerf",
-                "stars": 962,
+                "stars": 961,
                 "topics": [
                   "3d",
                   "machine-learning",
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:53:50.766Z",
+    "last_updated": "2026-09-22T20:03:39.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields for dynamic scenes",
