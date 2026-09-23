@@ -45,7 +45,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 * 4dslomo: 4d reconstruction for high speed scene with asynchronous capture, Siggraph Asia 2025. [Code](https://github.com/OpenImagingLab/4DSloMo) ⭐ 141 | 🐛 6 | 🌐 Python | 📅 2025-10-27
 
-* Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction, WACV 2025. [Code](https://github.com/fraunhoferhhi/AT-GS) ⭐ 89 | 🐛 0 | 🌐 Python | 📅 2025-06-11
+* Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction, WACV 2025. [Code](https://github.com/fraunhoferhhi/AT-GS) ⭐ 90 | 🐛 0 | 🌐 Python | 📅 2025-06-11
 
 * DASH: 4D Hash Encoding with Self-Supervised Decomposition for Real-Time Dynamic Scene Rendering, ICCV 2025. [Code](https://github.com/chenj02/DASH) ⭐ 28 | 🐛 5 | 🌐 Python | 📅 2026-04-13
 
@@ -135,4 +135,4 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
