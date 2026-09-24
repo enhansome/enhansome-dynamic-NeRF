@@ -250,7 +250,7 @@
                 "open_issues": 2,
                 "owner": "OpsiClear-4DGS",
                 "repo": "FreeTimeGsVanilla",
-                "stars": 187,
+                "stars": 188,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T20:03:17.004Z",
+    "last_updated": "2026-09-24T20:18:25.784Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields for dynamic scenes",
@@ -1032,7 +1032,7 @@
       "open_issues": 1,
       "owner": "pdaicode",
       "repo": "awesome-dynamic-NeRF",
-      "stars": 68,
+      "stars": 69,
       "topics": [
         "3d",
         "awesome-list",
