@@ -126,7 +126,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 * Nerfies: Deformable Neural Radiance Fields, ICCV, 2021. \[[Code](https://github.com/google/nerfies) ⚠️ Archived] (instructions for **custom data**, this is the one everyone refering to)
 * HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields, ACM Trans. Graph, 2021. \[[Code](https://github.com/google/hyperNeRF) ⚠️ Archived | [Project Page](https://hypernerf.github.io/) | [Colab](./colabs/HyperNerf.ipynb)] (instructions for custom data)
-* BARF: Bundle-Adjusting Neural Radiance Fields, Lin et. al., ICCV 2021 (Oral). \[[Code](https://github.com/chenhsuanlin/bundle-adjusting-NeRF) ⭐ 823 | 🐛 16 | 🌐 Python | 📅 2023-04-28]
+* BARF: Bundle-Adjusting Neural Radiance Fields, Lin et. al., ICCV 2021 (Oral). \[[Code](https://github.com/chenhsuanlin/bundle-adjusting-NeRF) ⭐ 824 | 🐛 16 | 🌐 Python | 📅 2023-04-28]
 * Dynamic View Synthesis from Dynamic Monocular Video, ICCV, 2021. \[[Code](https://github.com/gaochen315/DynamicNeRF) ⭐ 251 | 🐛 8 | 🌐 Python | 📅 2022-04-22]
 
 ## 2020
@@ -135,4 +135,4 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
