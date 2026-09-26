@@ -21,7 +21,7 @@
                 "open_issues": 23,
                 "owner": "zhengqili",
                 "repo": "Neural-Scene-Flow-Fields",
-                "stars": 742,
+                "stars": 741,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -956,7 +956,7 @@
                 "open_issues": 16,
                 "owner": "chenhsuanlin",
                 "repo": "bundle-adjusting-NeRF",
-                "stars": 824,
+                "stars": 823,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T20:19:51.363Z",
+    "last_updated": "2026-09-26T19:37:26.122Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields for dynamic scenes",
