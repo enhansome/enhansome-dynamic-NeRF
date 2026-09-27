@@ -61,7 +61,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 * \[+] Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis, CVPR 2024. [Code](https://github.com/oppo-us-research/SpacetimeGaussians) ⭐ 836 | 🐛 53 | 🌐 Python | 📅 2025-03-30
 
-* SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes. \[[Code](https://github.com/yihua7/SC-GS) ⭐ 650 | 🐛 32 | 🌐 Python | 📅 2025-06-27]
+* SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes. \[[Code](https://github.com/yihua7/SC-GS) ⭐ 652 | 🐛 32 | 🌐 Python | 📅 2025-06-27]
 
 * Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting, \[[Paper](https://arxiv.org/abs/2401.16416) | [Code](https://github.com/lastbasket/Endo-4DGS) ⭐ 106 | 🐛 9 | 🌐 Python | 📅 2025-08-30]
 
@@ -135,4 +135,4 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
