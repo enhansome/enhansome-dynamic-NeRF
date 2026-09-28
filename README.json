@@ -42,7 +42,7 @@
                 "open_issues": 24,
                 "owner": "facebookresearch",
                 "repo": "robust-dynrf",
-                "stars": 243,
+                "stars": 242,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -246,11 +246,11 @@
                 "id": 1139354831,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-01-23T18:55:00Z",
+                "last_commit": "2026-09-28T21:18:30Z",
                 "open_issues": 2,
                 "owner": "OpsiClear-4DGS",
                 "repo": "FreeTimeGsVanilla",
-                "stars": 188,
+                "stars": 189,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -675,7 +675,7 @@
                 "open_issues": 24,
                 "owner": "facebookresearch",
                 "repo": "robust-dynrf",
-                "stars": 243,
+                "stars": 242,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T19:59:10.826Z",
+    "last_updated": "2026-09-28T22:27:20.351Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields for dynamic scenes",
