@@ -50,7 +50,7 @@
             {
               "node_type": "item",
               "title": "Monocular Dynamic View Synthesis: A Reality Check",
-              "description": null,
+              "description": "KAIR-BAIR/dycheck",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -73,7 +73,7 @@
                 {
                   "node_type": "item",
                   "title": "Nerfies Dataset",
-                  "description": null,
+                  "description": "google/nerfies",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -100,7 +100,7 @@
                 {
                   "node_type": "item",
                   "title": "Hypernerf Dataset",
-                  "description": null,
+                  "description": "google/hypernerf",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -128,7 +128,7 @@
                 {
                   "node_type": "item",
                   "title": "Plenoptic Dataset",
-                  "description": null,
+                  "description": "facebookresearch/Neural_3D_Video",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -188,7 +188,7 @@
             {
               "node_type": "item",
               "title": "4C4D: 4 Camera 4D Gaussian Splatting, CVPR 2026. Code",
-              "description": null,
+              "description": "yangzf-1023/4C4D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -237,7 +237,7 @@
             {
               "node_type": "item",
               "title": "FreeTimeGS: Free Gaussian Primitives at Anytime Anywhere for Dynamic Scene Reconstruction, CVPR 2025. Code",
-              "description": null,
+              "description": "OpsiClear-4DGS/FreeTimeGsVanilla",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -258,7 +258,7 @@
             {
               "node_type": "item",
               "title": "Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation, 2025. Code",
-              "description": null,
+              "description": "ohsngjun/3D-4DGS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -279,7 +279,7 @@
             {
               "node_type": "item",
               "title": "4dslomo: 4d reconstruction for high speed scene with asynchronous capture, Siggraph Asia 2025. Code",
-              "description": null,
+              "description": "OpenImagingLab/4DSloMo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -300,7 +300,7 @@
             {
               "node_type": "item",
               "title": "Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction, WACV 2025. Code",
-              "description": null,
+              "description": "fraunhoferhhi/AT-GS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -321,7 +321,7 @@
             {
               "node_type": "item",
               "title": "DASH: 4D Hash Encoding with Self-Supervised Decomposition for Real-Time Dynamic Scene Rendering, ICCV 2025. Code",
-              "description": null,
+              "description": "chenj02/DASH",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -342,7 +342,7 @@
             {
               "node_type": "item",
               "title": "4K4DGen: Panoramic 4D Generation at 4K Resolution, ICLR 2025. Code",
-              "description": null,
+              "description": "ShadowIterator/4K4DGen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -391,7 +391,7 @@
             {
               "node_type": "item",
               "title": "Shape of Motion: 4D Reconstruction from a Single Video, 2024. [Project",
-              "description": "Code]",
+              "description": "vye16/shape-of-motion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -412,7 +412,7 @@
             {
               "node_type": "item",
               "title": "[+] Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis, CVPR 2024. Code",
-              "description": null,
+              "description": "oppo-us-research/SpacetimeGaussians",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -433,7 +433,7 @@
             {
               "node_type": "item",
               "title": "SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes. [Code",
-              "description": "]",
+              "description": "CVMI-Lab/SC-GS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -458,7 +458,7 @@
             {
               "node_type": "item",
               "title": "Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting, [Paper",
-              "description": "Code]",
+              "description": "lastbasket/Endo-4DGS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -500,7 +500,7 @@
             {
               "node_type": "item",
               "title": "Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos, AAAI2024. [Code",
-              "description": "]",
+              "description": "seoha-kim/Sync-NeRF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -521,7 +521,7 @@
             {
               "node_type": "item",
               "title": "Evdnerf: Reconstructing event data with dynamic neural radiance fields, WACV 2024. Code",
-              "description": null,
+              "description": "anish-bhattacharya/EvDNeRF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -550,7 +550,7 @@
             {
               "node_type": "item",
               "title": "CTNeRF: Cross-time Transformer for dynamic neural radiance field from monocular video, Pattern Recognition, 2024. Code",
-              "description": null,
+              "description": "xingy038/CTNeRF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -571,7 +571,7 @@
             {
               "node_type": "item",
               "title": "DynamicSurf: Dynamic Neural RGB-D Surface Reconstruction with an Optimizable Feature Grid, International Conference on 3D Vision (3DV) 2024. Code",
-              "description": null,
+              "description": "Mirgahney/dynsurf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -620,7 +620,7 @@
             {
               "node_type": "item",
               "title": "HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling, CVPR 2023 (Highlight). Code",
-              "description": null,
+              "description": "facebookresearch/hyperreel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -683,7 +683,7 @@
             {
               "node_type": "item",
               "title": "Tensor4D : Efficient Neural 4D Decomposition for High-fidelity Dynamic Reconstruction and Rendering, Shao et. al., CVPR, 2023. [Paper",
-              "description": "Code]",
+              "description": "DSaurus/Tensor4D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -711,7 +711,7 @@
             {
               "node_type": "item",
               "title": "Dynamic Mesh-Aware Radiance Fields, ICCV, 2023. [Project Page",
-              "description": "Code]",
+              "description": "YilingQiao/DMRF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -737,7 +737,7 @@
             {
               "node_type": "item",
               "title": "MixVoxels: Mixed Neural Voxels for Fast Multi-view Video Synthesis, ICCV2023 Oral. Code",
-              "description": null,
+              "description": "fengres/mixvoxels",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -758,7 +758,7 @@
             {
               "node_type": "item",
               "title": "NeRFPlayer: A Streamable Dynamic Scene Representation with Decomposed Neural Radiance Fields, IEEE Transactions on Visualization and Computer Graphics, vol 29(5), 2023. [Code",
-              "description": "]",
+              "description": "lsongx/nerfplayer-nerfstudio",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -800,7 +800,7 @@
             {
               "node_type": "item",
               "title": "V4d: Voxel for 4d novel view synthesis, Gan et. al., IEEE Transactions on Visualization and Computer Graphics, 2023. [Code",
-              "description": "]",
+              "description": "GANWANSHUI/V4D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -828,7 +828,7 @@
             {
               "node_type": "item",
               "title": "TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels, Fang et. al., ACM SIGGRAPH Asia 2022. [Project Page",
-              "description": "Code]",
+              "description": "hustvl/TiNeuVox",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -860,7 +860,7 @@
             {
               "node_type": "item",
               "title": "D2NeRF: Self-Supervised Decoupling of Dynamic and Static Objects from a Monocular Video, NeurIPS, 2022. [Project Page",
-              "description": "Code]",
+              "description": "ChikaYan/d2nerf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -943,7 +943,7 @@
             {
               "node_type": "item",
               "title": "BARF: Bundle-Adjusting Neural Radiance Fields, Lin et. al., ICCV 2021 (Oral). [Code",
-              "description": "]",
+              "description": "chenhsuanlin/bundle-adjusting-NeRF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -964,7 +964,7 @@
             {
               "node_type": "item",
               "title": "Dynamic View Synthesis from Dynamic Monocular Video, ICCV, 2021. [Code",
-              "description": "]",
+              "description": "gaochen315/DynamicNeRF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -992,7 +992,7 @@
             {
               "node_type": "item",
               "title": "D-NeRF: Neural Radiance Fields for Dynamic Scenes, Pumarola et. al, CVPR 2020. [Project Page",
-              "description": "Code]",
+              "description": "albertpumarola/D-NeRF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:13:35.996Z",
+    "last_updated": "2026-10-03T04:45:44.477Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields for dynamic scenes",
