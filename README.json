@@ -86,7 +86,7 @@
                     "open_issues": 42,
                     "owner": "google",
                     "repo": "nerfies",
-                    "stars": 1973,
+                    "stars": 1972,
                     "topics": [
                       "3d",
                       "machine-learning",
@@ -113,7 +113,7 @@
                     "open_issues": 36,
                     "owner": "google",
                     "repo": "hypernerf",
-                    "stars": 961,
+                    "stars": 960,
                     "topics": [
                       "3d",
                       "machine-learning",
@@ -383,7 +383,7 @@
                 "open_issues": 32,
                 "owner": "JonathonLuiten",
                 "repo": "Dynamic3DGaussians",
-                "stars": 2301,
+                "stars": 2300,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -654,7 +654,7 @@
                 "open_issues": 7,
                 "owner": "Caoang327",
                 "repo": "HexPlane",
-                "stars": 314,
+                "stars": 315,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -901,7 +901,7 @@
                 "open_issues": 42,
                 "owner": "google",
                 "repo": "nerfies",
-                "stars": 1973,
+                "stars": 1972,
                 "topics": [
                   "3d",
                   "machine-learning",
@@ -928,7 +928,7 @@
                 "open_issues": 36,
                 "owner": "google",
                 "repo": "hypernerf",
-                "stars": 961,
+                "stars": 960,
                 "topics": [
                   "3d",
                   "machine-learning",
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T21:49:46.964Z",
+    "last_updated": "2026-10-08T21:53:16.931Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields for dynamic scenes",
