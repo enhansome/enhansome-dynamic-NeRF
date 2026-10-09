@@ -86,7 +86,7 @@
                     "open_issues": 42,
                     "owner": "google",
                     "repo": "nerfies",
-                    "stars": 1972,
+                    "stars": 1973,
                     "topics": [
                       "3d",
                       "machine-learning",
@@ -383,7 +383,7 @@
                 "open_issues": 32,
                 "owner": "JonathonLuiten",
                 "repo": "Dynamic3DGaussians",
-                "stars": 2300,
+                "stars": 2301,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -425,7 +425,7 @@
                 "open_issues": 53,
                 "owner": "oppo-us-research",
                 "repo": "SpacetimeGaussians",
-                "stars": 837,
+                "stars": 838,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -446,7 +446,7 @@
                 "open_issues": 32,
                 "owner": "CVMI-Lab",
                 "repo": "SC-GS",
-                "stars": 653,
+                "stars": 654,
                 "topics": [
                   "dynamic-nerf",
                   "gaussian-splatting",
@@ -901,7 +901,7 @@
                 "open_issues": 42,
                 "owner": "google",
                 "repo": "nerfies",
-                "stars": 1972,
+                "stars": 1973,
                 "topics": [
                   "3d",
                   "machine-learning",
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T21:53:16.931Z",
+    "last_updated": "2026-10-09T21:30:40.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields for dynamic scenes",

@@ -55,13 +55,13 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ## 2024
 
-* Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis, Luiten et. al., International Conference on 3D Vision (3DV), 2024. \[[Paper](https://dynamic3dgaussians.github.io/paper.pdf) | [Project Page](https://dynamic3dgaussians.github.io/) | [Code](https://github.com/JonathonLuiten/Dynamic3DGaussians) ⭐ 2,300 | 🐛 32 | 🌐 Python | 📅 2023-12-22 | [Explanation Video](https://www.youtube.com/live/hDuy1TgD8I4?si=6oGN0IYnPRxOibpg)]
+* Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis, Luiten et. al., International Conference on 3D Vision (3DV), 2024. \[[Paper](https://dynamic3dgaussians.github.io/paper.pdf) | [Project Page](https://dynamic3dgaussians.github.io/) | [Code](https://github.com/JonathonLuiten/Dynamic3DGaussians) ⭐ 2,301 | 🐛 32 | 🌐 Python | 📅 2023-12-22 | [Explanation Video](https://www.youtube.com/live/hDuy1TgD8I4?si=6oGN0IYnPRxOibpg)]
 
 * Shape of Motion: 4D Reconstruction from a Single Video, 2024. \[[Project](https://shape-of-motion.github.io/) | [Code](https://github.com/vye16/shape-of-motion/) ⭐ 1,312 | 🐛 58 | 🌐 Python | 📅 2025-08-02]
 
-* \[+] Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis, CVPR 2024. [Code](https://github.com/oppo-us-research/SpacetimeGaussians) ⭐ 837 | 🐛 53 | 🌐 Python | 📅 2025-03-30
+* \[+] Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis, CVPR 2024. [Code](https://github.com/oppo-us-research/SpacetimeGaussians) ⭐ 838 | 🐛 53 | 🌐 Python | 📅 2025-03-30
 
-* SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes. \[[Code](https://github.com/yihua7/SC-GS) ⭐ 653 | 🐛 32 | 🌐 Python | 📅 2025-06-27]
+* SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes. \[[Code](https://github.com/yihua7/SC-GS) ⭐ 654 | 🐛 32 | 🌐 Python | 📅 2025-06-27]
 
 * Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting, \[[Paper](https://arxiv.org/abs/2401.16416) | [Code](https://github.com/lastbasket/Endo-4DGS) ⭐ 106 | 🐛 9 | 🌐 Python | 📅 2025-08-30]
 
@@ -135,4 +135,4 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
