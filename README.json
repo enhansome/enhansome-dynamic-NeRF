@@ -271,7 +271,7 @@
                 "open_issues": 9,
                 "owner": "ohsngjun",
                 "repo": "3D-4DGS",
-                "stars": 163,
+                "stars": 164,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -313,7 +313,7 @@
                 "open_issues": 0,
                 "owner": "fraunhoferhhi",
                 "repo": "AT-GS",
-                "stars": 90,
+                "stars": 91,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -334,7 +334,7 @@
                 "open_issues": 5,
                 "owner": "chenj02",
                 "repo": "DASH",
-                "stars": 28,
+                "stars": 30,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T20:31:33.218Z",
+    "last_updated": "2026-10-11T20:50:53.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields for dynamic scenes",

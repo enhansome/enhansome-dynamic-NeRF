@@ -41,13 +41,13 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 * FreeTimeGS: Free Gaussian Primitives at Anytime Anywhere for Dynamic Scene Reconstruction, CVPR 2025. [Code](https://github.com/OpsiClear/FreeTimeGsVanilla) ⭐ 189 | 🐛 2 | 🌐 Python | 📅 2026-09-29
 
-* Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation, 2025. [Code](https://github.com/ohsngjun/3D-4DGS) ⭐ 163 | 🐛 9 | 🌐 Python | 📅 2025-06-05
+* Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation, 2025. [Code](https://github.com/ohsngjun/3D-4DGS) ⭐ 164 | 🐛 9 | 🌐 Python | 📅 2025-06-05
 
 * 4dslomo: 4d reconstruction for high speed scene with asynchronous capture, Siggraph Asia 2025. [Code](https://github.com/OpenImagingLab/4DSloMo) ⭐ 141 | 🐛 6 | 🌐 Python | 📅 2025-10-27
 
-* Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction, WACV 2025. [Code](https://github.com/fraunhoferhhi/AT-GS) ⭐ 90 | 🐛 0 | 🌐 Python | 📅 2025-06-11
+* Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction, WACV 2025. [Code](https://github.com/fraunhoferhhi/AT-GS) ⭐ 91 | 🐛 0 | 🌐 Python | 📅 2025-06-11
 
-* DASH: 4D Hash Encoding with Self-Supervised Decomposition for Real-Time Dynamic Scene Rendering, ICCV 2025. [Code](https://github.com/chenj02/DASH) ⭐ 28 | 🐛 5 | 🌐 Python | 📅 2026-04-13
+* DASH: 4D Hash Encoding with Self-Supervised Decomposition for Real-Time Dynamic Scene Rendering, ICCV 2025. [Code](https://github.com/chenj02/DASH) ⭐ 30 | 🐛 5 | 🌐 Python | 📅 2026-04-13
 
 * 4K4DGen: Panoramic 4D Generation at 4K Resolution, ICLR 2025. [Code](https://github.com/ShadowIterator/4K4DGen) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2025-11-19
 
@@ -135,4 +135,4 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
