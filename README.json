@@ -246,7 +246,7 @@
                 "id": 1139354831,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-29T23:08:33Z",
+                "last_commit": "2026-10-12T17:47:37Z",
                 "open_issues": 2,
                 "owner": "OpsiClear-4DGS",
                 "repo": "FreeTimeGsVanilla",
@@ -446,7 +446,7 @@
                 "open_issues": 32,
                 "owner": "CVMI-Lab",
                 "repo": "SC-GS",
-                "stars": 654,
+                "stars": 655,
                 "topics": [
                   "dynamic-nerf",
                   "gaussian-splatting",
@@ -873,7 +873,7 @@
                 "open_issues": 1,
                 "owner": "ChikaYan",
                 "repo": "d2nerf",
-                "stars": 192,
+                "stars": 193,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T20:50:53.897Z",
+    "last_updated": "2026-10-12T23:32:44.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields for dynamic scenes",

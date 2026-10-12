@@ -39,7 +39,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ## 2025
 
-* FreeTimeGS: Free Gaussian Primitives at Anytime Anywhere for Dynamic Scene Reconstruction, CVPR 2025. [Code](https://github.com/OpsiClear/FreeTimeGsVanilla) ⭐ 189 | 🐛 2 | 🌐 Python | 📅 2026-09-29
+* FreeTimeGS: Free Gaussian Primitives at Anytime Anywhere for Dynamic Scene Reconstruction, CVPR 2025. [Code](https://github.com/OpsiClear/FreeTimeGsVanilla) ⭐ 189 | 🐛 2 | 🌐 Python | 📅 2026-10-12
 
 * Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation, 2025. [Code](https://github.com/ohsngjun/3D-4DGS) ⭐ 164 | 🐛 9 | 🌐 Python | 📅 2025-06-05
 
@@ -61,7 +61,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 * \[+] Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis, CVPR 2024. [Code](https://github.com/oppo-us-research/SpacetimeGaussians) ⭐ 839 | 🐛 53 | 🌐 Python | 📅 2025-03-30
 
-* SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes. \[[Code](https://github.com/yihua7/SC-GS) ⭐ 654 | 🐛 32 | 🌐 Python | 📅 2025-06-27]
+* SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes. \[[Code](https://github.com/yihua7/SC-GS) ⭐ 655 | 🐛 32 | 🌐 Python | 📅 2025-06-27]
 
 * Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting, \[[Paper](https://arxiv.org/abs/2401.16416) | [Code](https://github.com/lastbasket/Endo-4DGS) ⭐ 106 | 🐛 9 | 🌐 Python | 📅 2025-08-30]
 
@@ -117,7 +117,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 ## 2022
 
 * TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels, Fang et. al., ACM SIGGRAPH Asia 2022. \[[Project Page](https://jaminfong.cn/tineuvox/) | [Code](https://github.com/hustvl/TiNeuVox) ⭐ 352 | 🐛 6 | 🌐 Python | 📅 2023-05-11]
-* D2NeRF: Self-Supervised Decoupling of Dynamic and Static Objects from a Monocular Video, NeurIPS, 2022. \[[Project Page](https://d2nerf.github.io/) | [Code](https://github.com/ChikaYan/d2nerf) ⭐ 192 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-08-12]
+* D2NeRF: Self-Supervised Decoupling of Dynamic and Static Objects from a Monocular Video, NeurIPS, 2022. \[[Project Page](https://d2nerf.github.io/) | [Code](https://github.com/ChikaYan/d2nerf) ⭐ 193 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-08-12]
 * Fourier PlenOctrees for Dynamic Radiance Field Rendering in Real-time, CVPR 2022 \[[Project Page](https://aoliao12138.github.io/FPO/)]
 * Monocular Dynamic View Synthesis: A Reality Check, Gao et. al., Neurips 2022. \[[Project Page](https://hangg7.com/dycheck/)]
 * Fourier PlenOctrees for Dynamic Radiance Field Rendering in Real-time, CVPR 2022. [Project](https://aoliao12138.github.io/FPO/)
@@ -135,4 +135,4 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
