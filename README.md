@@ -22,7 +22,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 * [Nerfies Dataset](https://github.com/google/nerfies/releases/download/0.1/nerfies-vrig-dataset-v0.1.zip) ⚠️ Archived
 * [Hypernerf Dataset](https://github.com/google/hypernerf/releases/tag/v0.1) ⚠️ Archived
 * [Plenoptic Dataset](https://github.com/facebookresearch/Neural_3D_Video/releases/tag/v1.0) ⚠️ Archived
-* [Dynamic NeRF](https://github.com/gaochen315/DynamicNeRF) ⭐ 252 | 🐛 8 | 🌐 Python | 📅 2022-04-22
+* [Dynamic NeRF](https://github.com/gaochen315/DynamicNeRF) ⭐ 251 | 🐛 8 | 🌐 Python | 📅 2022-04-22
   Balloon1, Balloon2, Jumping, Playground, Skating, Truck, Umbrella
 
 # 2. My Notebooks
@@ -127,7 +127,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 * Nerfies: Deformable Neural Radiance Fields, ICCV, 2021. \[[Code](https://github.com/google/nerfies) ⚠️ Archived] (instructions for **custom data**, this is the one everyone refering to)
 * HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields, ACM Trans. Graph, 2021. \[[Code](https://github.com/google/hyperNeRF) ⚠️ Archived | [Project Page](https://hypernerf.github.io/) | [Colab](./colabs/HyperNerf.ipynb)] (instructions for custom data)
 * BARF: Bundle-Adjusting Neural Radiance Fields, Lin et. al., ICCV 2021 (Oral). \[[Code](https://github.com/chenhsuanlin/bundle-adjusting-NeRF) ⭐ 823 | 🐛 16 | 🌐 Python | 📅 2023-04-28]
-* Dynamic View Synthesis from Dynamic Monocular Video, ICCV, 2021. \[[Code](https://github.com/gaochen315/DynamicNeRF) ⭐ 252 | 🐛 8 | 🌐 Python | 📅 2022-04-22]
+* Dynamic View Synthesis from Dynamic Monocular Video, ICCV, 2021. \[[Code](https://github.com/gaochen315/DynamicNeRF) ⭐ 251 | 🐛 8 | 🌐 Python | 📅 2022-04-22]
 
 ## 2020
 
@@ -135,4 +135,4 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._

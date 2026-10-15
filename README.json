@@ -162,7 +162,7 @@
                     "open_issues": 8,
                     "owner": "gaochen315",
                     "repo": "DynamicNeRF",
-                    "stars": 252,
+                    "stars": 251,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:53:43.535Z"
@@ -977,7 +977,7 @@
                 "open_issues": 8,
                 "owner": "gaochen315",
                 "repo": "DynamicNeRF",
-                "stars": 252,
+                "stars": 251,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T20:31:18.774Z",
+    "last_updated": "2026-10-15T20:13:16.507Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields for dynamic scenes",
