@@ -222,7 +222,7 @@
                 "open_issues": 1,
                 "owner": "chien90190",
                 "repo": "splannequin-gs",
-                "stars": 6,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T20:28:35.364Z",
+    "last_updated": "2026-10-22T20:26:40.854Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields for dynamic scenes",
