@@ -198,7 +198,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-04-07T02:15:07Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "yangzf-1023",
                 "repo": "4C4D",
                 "stars": 162,
@@ -271,7 +271,7 @@
                 "open_issues": 9,
                 "owner": "ohsngjun",
                 "repo": "3D-4DGS",
-                "stars": 164,
+                "stars": 165,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -383,7 +383,7 @@
                 "open_issues": 32,
                 "owner": "JonathonLuiten",
                 "repo": "Dynamic3DGaussians",
-                "stars": 2304,
+                "stars": 2305,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -404,7 +404,7 @@
                 "open_issues": 58,
                 "owner": "vye16",
                 "repo": "shape-of-motion",
-                "stars": 1315,
+                "stars": 1316,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -425,7 +425,7 @@
                 "open_issues": 53,
                 "owner": "oppo-us-research",
                 "repo": "SpacetimeGaussians",
-                "stars": 839,
+                "stars": 840,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T20:26:40.854Z",
+    "last_updated": "2026-10-23T20:15:01.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields for dynamic scenes",
