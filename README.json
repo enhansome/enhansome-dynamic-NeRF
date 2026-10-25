@@ -841,7 +841,7 @@
                 "open_issues": 6,
                 "owner": "hustvl",
                 "repo": "TiNeuVox",
-                "stars": 352,
+                "stars": 353,
                 "topics": [
                   "3d",
                   "computer-graphics",
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T19:19:45.069Z",
+    "last_updated": "2026-10-25T19:28:59.421Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields for dynamic scenes",

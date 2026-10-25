@@ -116,7 +116,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ## 2022
 
-* TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels, Fang et. al., ACM SIGGRAPH Asia 2022. \[[Project Page](https://jaminfong.cn/tineuvox/) | [Code](https://github.com/hustvl/TiNeuVox) ⭐ 352 | 🐛 6 | 🌐 Python | 📅 2023-05-11]
+* TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels, Fang et. al., ACM SIGGRAPH Asia 2022. \[[Project Page](https://jaminfong.cn/tineuvox/) | [Code](https://github.com/hustvl/TiNeuVox) ⭐ 353 | 🐛 6 | 🌐 Python | 📅 2023-05-11]
 * D2NeRF: Self-Supervised Decoupling of Dynamic and Static Objects from a Monocular Video, NeurIPS, 2022. \[[Project Page](https://d2nerf.github.io/) | [Code](https://github.com/ChikaYan/d2nerf) ⭐ 193 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-08-12]
 * Fourier PlenOctrees for Dynamic Radiance Field Rendering in Real-time, CVPR 2022 \[[Project Page](https://aoliao12138.github.io/FPO/)]
 * Monocular Dynamic View Synthesis: A Reality Check, Gao et. al., Neurips 2022. \[[Project Page](https://hangg7.com/dycheck/)]
@@ -135,4 +135,4 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
