@@ -39,7 +39,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ## 2025
 
-* FreeTimeGS: Free Gaussian Primitives at Anytime Anywhere for Dynamic Scene Reconstruction, CVPR 2025. [Code](https://github.com/OpsiClear/FreeTimeGsVanilla) ⭐ 194 | 🐛 3 | 🌐 Python | 📅 2026-10-12
+* FreeTimeGS: Free Gaussian Primitives at Anytime Anywhere for Dynamic Scene Reconstruction, CVPR 2025. [Code](https://github.com/OpsiClear/FreeTimeGsVanilla) ⭐ 195 | 🐛 3 | 🌐 Python | 📅 2026-10-12
 
 * Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation, 2025. [Code](https://github.com/ohsngjun/3D-4DGS) ⭐ 165 | 🐛 9 | 🌐 Python | 📅 2025-06-05
 
@@ -55,7 +55,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ## 2024
 
-* Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis, Luiten et. al., International Conference on 3D Vision (3DV), 2024. \[[Paper](https://dynamic3dgaussians.github.io/paper.pdf) | [Project Page](https://dynamic3dgaussians.github.io/) | [Code](https://github.com/JonathonLuiten/Dynamic3DGaussians) ⭐ 2,305 | 🐛 32 | 🌐 Python | 📅 2023-12-22 | [Explanation Video](https://www.youtube.com/live/hDuy1TgD8I4?si=6oGN0IYnPRxOibpg)]
+* Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis, Luiten et. al., International Conference on 3D Vision (3DV), 2024. \[[Paper](https://dynamic3dgaussians.github.io/paper.pdf) | [Project Page](https://dynamic3dgaussians.github.io/) | [Code](https://github.com/JonathonLuiten/Dynamic3DGaussians) ⭐ 2,307 | 🐛 32 | 🌐 Python | 📅 2023-12-22 | [Explanation Video](https://www.youtube.com/live/hDuy1TgD8I4?si=6oGN0IYnPRxOibpg)]
 
 * Shape of Motion: 4D Reconstruction from a Single Video, 2024. \[[Project](https://shape-of-motion.github.io/) | [Code](https://github.com/vye16/shape-of-motion/) ⭐ 1,316 | 🐛 58 | 🌐 Python | 📅 2025-08-02]
 
@@ -63,7 +63,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 * SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes. \[[Code](https://github.com/yihua7/SC-GS) ⭐ 655 | 🐛 32 | 🌐 Python | 📅 2025-06-27]
 
-* Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting, \[[Paper](https://arxiv.org/abs/2401.16416) | [Code](https://github.com/lastbasket/Endo-4DGS) ⭐ 106 | 🐛 9 | 🌐 Python | 📅 2025-08-30]
+* Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting, \[[Paper](https://arxiv.org/abs/2401.16416) | [Code](https://github.com/lastbasket/Endo-4DGS) ⭐ 108 | 🐛 9 | 🌐 Python | 📅 2025-08-30]
 
 * Sync-NeRF : Generalizing Dynamic NeRFs to Unsynchronized Videos, AAAI 2024. \[[Paper](https://arxiv.org/abs/2310.13356), [Code](https://github.com/seoha-kim/Sync-NeRF) ⭐ 60 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-29]
 
@@ -126,7 +126,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 * Nerfies: Deformable Neural Radiance Fields, ICCV, 2021. \[[Code](https://github.com/google/nerfies) ⚠️ Archived] (instructions for **custom data**, this is the one everyone refering to)
 * HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields, ACM Trans. Graph, 2021. \[[Code](https://github.com/google/hyperNeRF) ⚠️ Archived | [Project Page](https://hypernerf.github.io/) | [Colab](./colabs/HyperNerf.ipynb)] (instructions for custom data)
-* BARF: Bundle-Adjusting Neural Radiance Fields, Lin et. al., ICCV 2021 (Oral). \[[Code](https://github.com/chenhsuanlin/bundle-adjusting-NeRF) ⭐ 824 | 🐛 16 | 🌐 Python | 📅 2023-04-28]
+* BARF: Bundle-Adjusting Neural Radiance Fields, Lin et. al., ICCV 2021 (Oral). \[[Code](https://github.com/chenhsuanlin/bundle-adjusting-NeRF) ⭐ 825 | 🐛 16 | 🌐 Python | 📅 2023-04-28]
 * Dynamic View Synthesis from Dynamic Monocular Video, ICCV, 2021. \[[Code](https://github.com/gaochen315/DynamicNeRF) ⭐ 251 | 🐛 8 | 🌐 Python | 📅 2022-04-22]
 
 ## 2020
@@ -135,4 +135,4 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
