@@ -6,7 +6,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ## Custom Data Preparation
 
-* [Neural Scene Flow Fields](https://github.com/zhengqili/Neural-Scene-Flow-Fields/tree/main) ⭐ 741 | 🐛 23 | 🌐 Python | 📅 2022-07-15
+* [Neural Scene Flow Fields](https://github.com/zhengqili/Neural-Scene-Flow-Fields/tree/main) ⭐ 742 | 🐛 23 | 🌐 Python | 📅 2022-07-15
   Instructions for custom data.
 * [Robust Dynamic Radiance Fields](https://github.com/facebookresearch/robust-dynrf) ⚠️ Archived
   Estimate monocular depth, Predict optical flows, Obtain motion mask.
@@ -135,4 +135,4 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
