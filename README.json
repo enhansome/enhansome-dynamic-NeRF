@@ -383,7 +383,7 @@
                 "open_issues": 32,
                 "owner": "JonathonLuiten",
                 "repo": "Dynamic3DGaussians",
-                "stars": 2307,
+                "stars": 2308,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -425,7 +425,7 @@
                 "open_issues": 53,
                 "owner": "oppo-us-research",
                 "repo": "SpacetimeGaussians",
-                "stars": 841,
+                "stars": 842,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T21:24:18.005Z",
+    "last_updated": "2026-10-31T20:25:02.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields for dynamic scenes",
