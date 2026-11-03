@@ -86,7 +86,7 @@
                     "open_issues": 42,
                     "owner": "google",
                     "repo": "nerfies",
-                    "stars": 1973,
+                    "stars": 1972,
                     "topics": [
                       "3d",
                       "machine-learning",
@@ -696,7 +696,7 @@
                 "open_issues": 12,
                 "owner": "DSaurus",
                 "repo": "Tensor4D",
-                "stars": 232,
+                "stars": 233,
                 "topics": [
                   "3d-reconstruction",
                   "4d",
@@ -901,7 +901,7 @@
                 "open_issues": 42,
                 "owner": "google",
                 "repo": "nerfies",
-                "stars": 1973,
+                "stars": 1972,
                 "topics": [
                   "3d",
                   "machine-learning",
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:49:05.575Z",
+    "last_updated": "2026-11-03T22:14:23.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields for dynamic scenes",

@@ -105,7 +105,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 * HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling, CVPR 2023 (Highlight). [Code](https://github.com/facebookresearch/hyperreel) ⭐ 481 | 🐛 11 | 🌐 Python | 📅 2025-02-12
 * HexPlane: A Fast Representation for Dynamic Scenes, Cao et. al., CVPR, 2023. \[[Paper](https://caoang327.github.io/HexPlane/HexPlane.pdf) | [Project Page](https://caoang327.github.io/HexPlane/) | [Code](https://github.com/Caoang327/HexPlane) ⭐ 316 | 🐛 7 | 🌐 Python | 📅 2024-02-06]
 * Robust Dynamic Radiance Fields, Liu et. al., CVPR, 2023. \[[Code](https://github.com/facebookresearch/robust-dynrf) ⚠️ Archived | [Kaggle](https://www.kaggle.com/code/declanide/robust-nerf)]
-* Tensor4D : Efficient Neural 4D Decomposition for High-fidelity Dynamic Reconstruction and Rendering, Shao et. al., CVPR, 2023. \[[Paper](https://arxiv.org/abs/2211.11610) | [Code](https://github.com/DSaurus/Tensor4D) ⭐ 232 | 🐛 12 | 🌐 Python | 📅 2023-06-03]
+* Tensor4D : Efficient Neural 4D Decomposition for High-fidelity Dynamic Reconstruction and Rendering, Shao et. al., CVPR, 2023. \[[Paper](https://arxiv.org/abs/2211.11610) | [Code](https://github.com/DSaurus/Tensor4D) ⭐ 233 | 🐛 12 | 🌐 Python | 📅 2023-06-03]
 * Dynamic Mesh-Aware Radiance Fields, ICCV, 2023. \[[Project Page](https://mesh-aware-rf.github.io/) | [Code](https://github.com/YilingQiao/DMRF) ⭐ 179 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-02-28]
 * MixVoxels: Mixed Neural Voxels for Fast Multi-view Video Synthesis, ICCV2023 Oral. [Code](https://github.com/fengres/mixvoxels) ⭐ 176 | 🐛 7 | 🌐 Python | 📅 2023-08-16
 * NeRFPlayer: A Streamable Dynamic Scene Representation with Decomposed Neural Radiance Fields, IEEE Transactions on Visualization and Computer Graphics, vol 29(5), 2023. \[[Code](https://github.com/lsongx/nerfplayer-nerfstudio) ⭐ 53 | 🐛 5 | 🌐 Python | 📅 2024-11-03]
@@ -135,4 +135,4 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
