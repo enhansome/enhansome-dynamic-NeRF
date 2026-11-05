@@ -292,7 +292,7 @@
                 "open_issues": 6,
                 "owner": "OpenImagingLab",
                 "repo": "4DSloMo",
-                "stars": 141,
+                "stars": 142,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -612,7 +612,7 @@
                 "open_issues": 64,
                 "owner": "ingra14m",
                 "repo": "Deformable-3D-Gaussians",
-                "stars": 1265,
+                "stars": 1266,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -956,7 +956,7 @@
                 "open_issues": 16,
                 "owner": "chenhsuanlin",
                 "repo": "bundle-adjusting-NeRF",
-                "stars": 825,
+                "stars": 824,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T22:29:20.351Z",
+    "last_updated": "2026-11-05T22:37:08.802Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields for dynamic scenes",

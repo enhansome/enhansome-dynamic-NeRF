@@ -43,7 +43,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 * Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation, 2025. [Code](https://github.com/ohsngjun/3D-4DGS) ⭐ 165 | 🐛 9 | 🌐 Python | 📅 2025-06-05
 
-* 4dslomo: 4d reconstruction for high speed scene with asynchronous capture, Siggraph Asia 2025. [Code](https://github.com/OpenImagingLab/4DSloMo) ⭐ 141 | 🐛 6 | 🌐 Python | 📅 2025-10-27
+* 4dslomo: 4d reconstruction for high speed scene with asynchronous capture, Siggraph Asia 2025. [Code](https://github.com/OpenImagingLab/4DSloMo) ⭐ 142 | 🐛 6 | 🌐 Python | 📅 2025-10-27
 
 * Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction, WACV 2025. [Code](https://github.com/fraunhoferhhi/AT-GS) ⭐ 91 | 🐛 0 | 🌐 Python | 📅 2025-06-11
 
@@ -101,7 +101,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ## 2023
 
-* Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction, Yang et. al., ACM Transactions on Graphics, 2023. \[[Paper](https://arxiv.org/pdf/2309.13101.pdf) | [Project Page](https://ingra14m.github.io/Deformable-Gaussians/) | [Code](https://github.com/ingra14m/Deformable-3D-Gaussians) ⭐ 1,265 | 🐛 64 | 🌐 Python | 📅 2024-06-25]
+* Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction, Yang et. al., ACM Transactions on Graphics, 2023. \[[Paper](https://arxiv.org/pdf/2309.13101.pdf) | [Project Page](https://ingra14m.github.io/Deformable-Gaussians/) | [Code](https://github.com/ingra14m/Deformable-3D-Gaussians) ⭐ 1,266 | 🐛 64 | 🌐 Python | 📅 2024-06-25]
 * HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling, CVPR 2023 (Highlight). [Code](https://github.com/facebookresearch/hyperreel) ⭐ 481 | 🐛 11 | 🌐 Python | 📅 2025-02-12
 * HexPlane: A Fast Representation for Dynamic Scenes, Cao et. al., CVPR, 2023. \[[Paper](https://caoang327.github.io/HexPlane/HexPlane.pdf) | [Project Page](https://caoang327.github.io/HexPlane/) | [Code](https://github.com/Caoang327/HexPlane) ⭐ 316 | 🐛 7 | 🌐 Python | 📅 2024-02-06]
 * Robust Dynamic Radiance Fields, Liu et. al., CVPR, 2023. \[[Code](https://github.com/facebookresearch/robust-dynrf) ⚠️ Archived | [Kaggle](https://www.kaggle.com/code/declanide/robust-nerf)]
@@ -126,7 +126,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 * Nerfies: Deformable Neural Radiance Fields, ICCV, 2021. \[[Code](https://github.com/google/nerfies) ⚠️ Archived] (instructions for **custom data**, this is the one everyone refering to)
 * HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields, ACM Trans. Graph, 2021. \[[Code](https://github.com/google/hyperNeRF) ⚠️ Archived | [Project Page](https://hypernerf.github.io/) | [Colab](./colabs/HyperNerf.ipynb)] (instructions for custom data)
-* BARF: Bundle-Adjusting Neural Radiance Fields, Lin et. al., ICCV 2021 (Oral). \[[Code](https://github.com/chenhsuanlin/bundle-adjusting-NeRF) ⭐ 825 | 🐛 16 | 🌐 Python | 📅 2023-04-28]
+* BARF: Bundle-Adjusting Neural Radiance Fields, Lin et. al., ICCV 2021 (Oral). \[[Code](https://github.com/chenhsuanlin/bundle-adjusting-NeRF) ⭐ 824 | 🐛 16 | 🌐 Python | 📅 2023-04-28]
 * Dynamic View Synthesis from Dynamic Monocular Video, ICCV, 2021. \[[Code](https://github.com/gaochen315/DynamicNeRF) ⭐ 251 | 🐛 8 | 🌐 Python | 📅 2022-04-22]
 
 ## 2020
@@ -135,4 +135,4 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
