@@ -201,7 +201,7 @@
                 "open_issues": 7,
                 "owner": "yangzf-1023",
                 "repo": "4C4D",
-                "stars": 165,
+                "stars": 166,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -334,7 +334,7 @@
                 "open_issues": 5,
                 "owner": "chenj02",
                 "repo": "DASH",
-                "stars": 30,
+                "stars": 31,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -383,7 +383,7 @@
                 "open_issues": 32,
                 "owner": "JonathonLuiten",
                 "repo": "Dynamic3DGaussians",
-                "stars": 2308,
+                "stars": 2309,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -425,7 +425,7 @@
                 "open_issues": 53,
                 "owner": "oppo-us-research",
                 "repo": "SpacetimeGaussians",
-                "stars": 842,
+                "stars": 843,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -446,7 +446,7 @@
                 "open_issues": 32,
                 "owner": "CVMI-Lab",
                 "repo": "SC-GS",
-                "stars": 656,
+                "stars": 657,
                 "topics": [
                   "dynamic-nerf",
                   "gaussian-splatting",
@@ -612,7 +612,7 @@
                 "open_issues": 64,
                 "owner": "ingra14m",
                 "repo": "Deformable-3D-Gaussians",
-                "stars": 1266,
+                "stars": 1267,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -841,7 +841,7 @@
                 "open_issues": 6,
                 "owner": "hustvl",
                 "repo": "TiNeuVox",
-                "stars": 353,
+                "stars": 354,
                 "topics": [
                   "3d",
                   "computer-graphics",
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T22:37:08.802Z",
+    "last_updated": "2026-11-06T21:58:48.355Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields for dynamic scenes",

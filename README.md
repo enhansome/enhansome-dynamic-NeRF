@@ -33,7 +33,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ## 2026
 
-* 4C4D: 4 Camera 4D Gaussian Splatting, CVPR 2026. [Code](https://github.com/yangzf-1023/4C4D) ⭐ 165 | 🐛 7 | 🌐 Python | 📅 2026-04-07
+* 4C4D: 4 Camera 4D Gaussian Splatting, CVPR 2026. [Code](https://github.com/yangzf-1023/4C4D) ⭐ 166 | 🐛 7 | 🌐 Python | 📅 2026-04-07
 * Splannequin: Freezing monocular mannequin-challenge footage with dual-detection splatting, WACV 2026 [Page](https://chien90190.github.io/splannequin/), [Code](https://github.com/chien90190/splannequin-gs) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2026-01-02
 * ClipGStream: Clip-Stream Gaussian Splatting for Any Length and Any Motion Multi-View Dynamic Scene Reconstruction, CVPR 2026. [Project](https://liangjie1999.github.io/ClipGStreamWeb/)
 
@@ -47,7 +47,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 * Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction, WACV 2025. [Code](https://github.com/fraunhoferhhi/AT-GS) ⭐ 91 | 🐛 0 | 🌐 Python | 📅 2025-06-11
 
-* DASH: 4D Hash Encoding with Self-Supervised Decomposition for Real-Time Dynamic Scene Rendering, ICCV 2025. [Code](https://github.com/chenj02/DASH) ⭐ 30 | 🐛 5 | 🌐 Python | 📅 2026-04-13
+* DASH: 4D Hash Encoding with Self-Supervised Decomposition for Real-Time Dynamic Scene Rendering, ICCV 2025. [Code](https://github.com/chenj02/DASH) ⭐ 31 | 🐛 5 | 🌐 Python | 📅 2026-04-13
 
 * 4K4DGen: Panoramic 4D Generation at 4K Resolution, ICLR 2025. [Code](https://github.com/ShadowIterator/4K4DGen) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2025-11-19
 
@@ -55,13 +55,13 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ## 2024
 
-* Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis, Luiten et. al., International Conference on 3D Vision (3DV), 2024. \[[Paper](https://dynamic3dgaussians.github.io/paper.pdf) | [Project Page](https://dynamic3dgaussians.github.io/) | [Code](https://github.com/JonathonLuiten/Dynamic3DGaussians) ⭐ 2,308 | 🐛 32 | 🌐 Python | 📅 2023-12-22 | [Explanation Video](https://www.youtube.com/live/hDuy1TgD8I4?si=6oGN0IYnPRxOibpg)]
+* Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis, Luiten et. al., International Conference on 3D Vision (3DV), 2024. \[[Paper](https://dynamic3dgaussians.github.io/paper.pdf) | [Project Page](https://dynamic3dgaussians.github.io/) | [Code](https://github.com/JonathonLuiten/Dynamic3DGaussians) ⭐ 2,309 | 🐛 32 | 🌐 Python | 📅 2023-12-22 | [Explanation Video](https://www.youtube.com/live/hDuy1TgD8I4?si=6oGN0IYnPRxOibpg)]
 
 * Shape of Motion: 4D Reconstruction from a Single Video, 2024. \[[Project](https://shape-of-motion.github.io/) | [Code](https://github.com/vye16/shape-of-motion/) ⭐ 1,317 | 🐛 58 | 🌐 Python | 📅 2025-08-02]
 
-* \[+] Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis, CVPR 2024. [Code](https://github.com/oppo-us-research/SpacetimeGaussians) ⭐ 842 | 🐛 53 | 🌐 Python | 📅 2025-03-30
+* \[+] Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis, CVPR 2024. [Code](https://github.com/oppo-us-research/SpacetimeGaussians) ⭐ 843 | 🐛 53 | 🌐 Python | 📅 2025-03-30
 
-* SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes. \[[Code](https://github.com/yihua7/SC-GS) ⭐ 656 | 🐛 32 | 🌐 Python | 📅 2025-06-27]
+* SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes. \[[Code](https://github.com/yihua7/SC-GS) ⭐ 657 | 🐛 32 | 🌐 Python | 📅 2025-06-27]
 
 * Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting, \[[Paper](https://arxiv.org/abs/2401.16416) | [Code](https://github.com/lastbasket/Endo-4DGS) ⭐ 108 | 🐛 9 | 🌐 Python | 📅 2025-08-30]
 
@@ -101,7 +101,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ## 2023
 
-* Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction, Yang et. al., ACM Transactions on Graphics, 2023. \[[Paper](https://arxiv.org/pdf/2309.13101.pdf) | [Project Page](https://ingra14m.github.io/Deformable-Gaussians/) | [Code](https://github.com/ingra14m/Deformable-3D-Gaussians) ⭐ 1,266 | 🐛 64 | 🌐 Python | 📅 2024-06-25]
+* Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction, Yang et. al., ACM Transactions on Graphics, 2023. \[[Paper](https://arxiv.org/pdf/2309.13101.pdf) | [Project Page](https://ingra14m.github.io/Deformable-Gaussians/) | [Code](https://github.com/ingra14m/Deformable-3D-Gaussians) ⭐ 1,267 | 🐛 64 | 🌐 Python | 📅 2024-06-25]
 * HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling, CVPR 2023 (Highlight). [Code](https://github.com/facebookresearch/hyperreel) ⭐ 481 | 🐛 11 | 🌐 Python | 📅 2025-02-12
 * HexPlane: A Fast Representation for Dynamic Scenes, Cao et. al., CVPR, 2023. \[[Paper](https://caoang327.github.io/HexPlane/HexPlane.pdf) | [Project Page](https://caoang327.github.io/HexPlane/) | [Code](https://github.com/Caoang327/HexPlane) ⭐ 316 | 🐛 7 | 🌐 Python | 📅 2024-02-06]
 * Robust Dynamic Radiance Fields, Liu et. al., CVPR, 2023. \[[Code](https://github.com/facebookresearch/robust-dynrf) ⚠️ Archived | [Kaggle](https://www.kaggle.com/code/declanide/robust-nerf)]
@@ -116,7 +116,7 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ## 2022
 
-* TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels, Fang et. al., ACM SIGGRAPH Asia 2022. \[[Project Page](https://jaminfong.cn/tineuvox/) | [Code](https://github.com/hustvl/TiNeuVox) ⭐ 353 | 🐛 6 | 🌐 Python | 📅 2023-05-11]
+* TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels, Fang et. al., ACM SIGGRAPH Asia 2022. \[[Project Page](https://jaminfong.cn/tineuvox/) | [Code](https://github.com/hustvl/TiNeuVox) ⭐ 354 | 🐛 6 | 🌐 Python | 📅 2023-05-11]
 * D2NeRF: Self-Supervised Decoupling of Dynamic and Static Objects from a Monocular Video, NeurIPS, 2022. \[[Project Page](https://d2nerf.github.io/) | [Code](https://github.com/ChikaYan/d2nerf) ⭐ 193 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-08-12]
 * Fourier PlenOctrees for Dynamic Radiance Field Rendering in Real-time, CVPR 2022 \[[Project Page](https://aoliao12138.github.io/FPO/)]
 * Monocular Dynamic View Synthesis: A Reality Check, Gao et. al., Neurips 2022. \[[Project Page](https://hangg7.com/dycheck/)]
@@ -135,4 +135,4 @@ Verified: Papers listed with \[+] have been verfied by myself or colleagues. The
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
