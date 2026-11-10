@@ -21,7 +21,7 @@
                 "open_issues": 23,
                 "owner": "zhengqili",
                 "repo": "Neural-Scene-Flow-Fields",
-                "stars": 742,
+                "stars": 741,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -83,7 +83,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2024-04-22T20:43:02Z",
-                    "open_issues": 42,
+                    "open_issues": 41,
                     "owner": "google",
                     "repo": "nerfies",
                     "stars": 1972,
@@ -383,7 +383,7 @@
                 "open_issues": 32,
                 "owner": "JonathonLuiten",
                 "repo": "Dynamic3DGaussians",
-                "stars": 2309,
+                "stars": 2308,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -404,7 +404,7 @@
                 "open_issues": 58,
                 "owner": "vye16",
                 "repo": "shape-of-motion",
-                "stars": 1318,
+                "stars": 1319,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -612,7 +612,7 @@
                 "open_issues": 64,
                 "owner": "ingra14m",
                 "repo": "Deformable-3D-Gaussians",
-                "stars": 1268,
+                "stars": 1267,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -898,7 +898,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-04-22T20:43:02Z",
-                "open_issues": 42,
+                "open_issues": 41,
                 "owner": "google",
                 "repo": "nerfies",
                 "stars": 1972,
@@ -956,7 +956,7 @@
                 "open_issues": 16,
                 "owner": "chenhsuanlin",
                 "repo": "bundle-adjusting-NeRF",
-                "stars": 824,
+                "stars": 822,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -1005,7 +1005,7 @@
                 "open_issues": 15,
                 "owner": "albertpumarola",
                 "repo": "D-NeRF",
-                "stars": 593,
+                "stars": 592,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T20:59:37.313Z",
+    "last_updated": "2026-11-10T00:35:54.157Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields for dynamic scenes",
