@@ -201,7 +201,7 @@
                 "open_issues": 7,
                 "owner": "yangzf-1023",
                 "repo": "4C4D",
-                "stars": 169,
+                "stars": 170,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -612,7 +612,7 @@
                 "open_issues": 64,
                 "owner": "ingra14m",
                 "repo": "Deformable-3D-Gaussians",
-                "stars": 1268,
+                "stars": 1269,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T23:22:16.468Z",
+    "last_updated": "2026-11-12T22:39:09.869Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields for dynamic scenes",
