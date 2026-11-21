@@ -201,7 +201,7 @@
                 "open_issues": 7,
                 "owner": "yangzf-1023",
                 "repo": "4C4D",
-                "stars": 172,
+                "stars": 173,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -383,7 +383,7 @@
                 "open_issues": 32,
                 "owner": "JonathonLuiten",
                 "repo": "Dynamic3DGaussians",
-                "stars": 2309,
+                "stars": 2310,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:59:45.798Z",
+    "last_updated": "2026-11-21T22:05:12.370Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields for dynamic scenes",
