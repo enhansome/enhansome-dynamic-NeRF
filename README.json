@@ -21,7 +21,7 @@
                 "open_issues": 23,
                 "owner": "zhengqili",
                 "repo": "Neural-Scene-Flow-Fields",
-                "stars": 741,
+                "stars": 740,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -42,7 +42,7 @@
                 "open_issues": 24,
                 "owner": "facebookresearch",
                 "repo": "robust-dynrf",
-                "stars": 242,
+                "stars": 241,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -383,7 +383,7 @@
                 "open_issues": 32,
                 "owner": "JonathonLuiten",
                 "repo": "Dynamic3DGaussians",
-                "stars": 2310,
+                "stars": 2311,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -404,7 +404,7 @@
                 "open_issues": 58,
                 "owner": "vye16",
                 "repo": "shape-of-motion",
-                "stars": 1319,
+                "stars": 1320,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -654,7 +654,7 @@
                 "open_issues": 7,
                 "owner": "Caoang327",
                 "repo": "HexPlane",
-                "stars": 315,
+                "stars": 314,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -675,7 +675,7 @@
                 "open_issues": 24,
                 "owner": "facebookresearch",
                 "repo": "robust-dynrf",
-                "stars": 242,
+                "stars": 241,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -1005,7 +1005,7 @@
                 "open_issues": 15,
                 "owner": "albertpumarola",
                 "repo": "D-NeRF",
-                "stars": 593,
+                "stars": 592,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T22:21:05.553Z",
+    "last_updated": "2026-11-24T03:11:56.552Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields for dynamic scenes",
