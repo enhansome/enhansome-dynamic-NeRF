@@ -201,7 +201,7 @@
                 "open_issues": 7,
                 "owner": "yangzf-1023",
                 "repo": "4C4D",
-                "stars": 174,
+                "stars": 175,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -654,7 +654,7 @@
                 "open_issues": 7,
                 "owner": "Caoang327",
                 "repo": "HexPlane",
-                "stars": 314,
+                "stars": 315,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:53:43.535Z"
@@ -841,7 +841,7 @@
                 "open_issues": 6,
                 "owner": "hustvl",
                 "repo": "TiNeuVox",
-                "stars": 354,
+                "stars": 355,
                 "topics": [
                   "3d",
                   "computer-graphics",
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T03:11:56.552Z",
+    "last_updated": "2026-11-25T01:17:16.302Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields for dynamic scenes",
